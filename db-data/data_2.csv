@@ -1,493 +1,493 @@
-,Brand,Model,Case Material,Strap Material,Movement Type,Water Resistance,Case Diameter (mm),Case Thickness (mm),Band Width (mm),Dial Color,Crystal Material,Complications,Power Reserve,Price (USD),category
-0,Rolex,Submariner,Stainless Steel,Stainless Steel,Automatic,300 meters,40.0,13.0,20.0,Black,Sapphire,Date,48 hours,"9,500",Watches
-1,Omega,Seamaster,Titanium,Rubber,Automatic,600 meters,43.5,14.47,21.0,Blue,Sapphire,Date,60 hours,"5,800",Watches
-2,Tag Heuer,Carrera,Stainless Steel,Leather,Automatic,100 meters,41.0,13.0,20.0,White,Sapphire,Chronograph,42 hours,"4,200",Watches
-3,Breitling,Navitimer,Stainless Steel,Stainless Steel,Automatic,30 meters,43.0,14.25,22.0,Black,Sapphire,Chronograph,70 hours,"7,900",Watches
-5,Jaeger-LeCoultre,Reverso,Stainless Steel,Leather,Manual,30 meters,42.9,9.2,20.0,Black,Sapphire,None,45 hours,"5,500",Watches
-6,Seiko,Prospex,Stainless Steel,Rubber,Automatic,200 meters,44.3,12.9,20.0,Black,Sapphire,Date,50 hours,"1,400",Watches
-7,Citizen,Promaster,Stainless Steel,Stainless Steel,Eco-Drive,200 meters,42.0,13.0,22.0,Black,Mineral,Chronograph,270 days,"1,200",Watches
-8,Tissot,Le Locle,Stainless Steel,Leather,Automatic,30 meters,39.3,9.75,19.0,White,Sapphire,Date,38 hours,650,Watches
-9,Hamilton,Khaki Field,Stainless Steel,Leather,Automatic,100 meters,38.0,9.8,20.0,Black,Sapphire,None,80 hours,495,Watches
-10,Longines,Master Collection,Stainless Steel,Leather,Automatic,30 meters,38.5,9.7,20.0,Silver,Sapphire,Date,64 hours,"1,150",Watches
-11,Oris,Big Crown ProPilot,Stainless Steel,Textile,Automatic,100 meters,41.0,12.0,20.0,Black,Sapphire,"Date, GMT",38 hours,"1,800",Watches
-12,Bell & Ross,Aviation,Stainless Steel,Rubber,Automatic,100 meters,42.0,11.5,24.0,Black,Sapphire,Chronograph,42 hours,"4,500",Watches
-13,Sinn,104,Stainless Steel,Leather,Automatic,200 meters,41.0,11.5,20.0,Black,Sapphire,Date,42 hours,"1,400",Watches
-14,Breguet,Classique,18k White Gold,Leather,Manual,30 meters,38.0,8.65,20.0,Silver,Sapphire,None,40 hours,"16,000",Watches
-15,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50 meters,41.0,9.8,20.0,Silver,Sapphire,Date,60 hours,"22,000",Watches
-16,Vacheron Constantin,Overseas,Stainless Steel,Rubber,Automatic,150 meters,41.0,11.0,22.0,Blue,Sapphire,Date,40 hours,"19,000",Watches
-17,Omega,Speedmaster,Stainless Steel,Stainless Steel,Automatic,50 meters,42.0,14.5,20.0,Black,Sapphire,"Chronograph, Tachymeter",60 hours,"4,500",Watches
-18,Breitling,Superocean,Stainless Steel,Rubber,Automatic,500 meters,42.0,13.3,20.0,Blue,Sapphire,Date,38 hours,"3,200",Watches
-19,Panerai,Luminor Base Logo,Stainless Steel,Leather,Manual,100 meters,44.0,10.5,22.0,Black,Sapphire,None,56 hours,"3,900",Watches
-20,Tudor,Black Bay,Stainless Steel,Leather,Automatic,200 meters,41.0,11.9,22.0,Black,Sapphire,None,70 hours,"3,500",Watches
-21,Rolex,GMT-Master II,Stainless Steel,Stainless Steel,Automatic,100 meters,40.0,12.5,20.0,Black,Sapphire,GMT,48 hours,"14,000",Watches
-22,IWC,Pilot's Watch,Stainless Steel,Leather,Automatic,60 meters,41.0,12.5,20.0,Black,Sapphire,Date,42 hours,"4,800",Watches
-23,Jaeger-LeCoultre,Master Ultra Thin,Stainless Steel,Leather,Automatic,50 meters,39.0,7.58,20.0,Silver,Sapphire,None,70 hours,"7,500",Watches
-25,Montblanc,1858 Geosphere,Stainless Steel,Leather,Automatic,100 meters,42.0,11.2,22.0,Black,Sapphire,"World Time, GMT",42 hours,"6,200",Watches
-27,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50 meters,41.0,10.4,20.0,Black,Sapphire,Date,60 hours,"21,000",Watches
-28,Rolex,Datejust,Stainless Steel,Jubilee,Automatic,100 meters,36.0,12.0,20.0,Silver,Sapphire,Date,70 hours,"9,000",Watches
-29,Omega,Speedmaster Moonwatch,Stainless Steel,Stainless Steel,Manual,50 meters,42.0,14.3,20.0,Black,Hesalite,"Chronograph, Tachymeter",48 hours,"5,250",Watches
-30,IWC,Portugieser,Stainless Steel,Alligator,Automatic,30 meters,40.4,12.3,20.0,Silver,Sapphire,Date,60 hours,"8,800",Watches
-31,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50 meters,41.0,10.4,20.0,Black,Sapphire,Date,60 hours,"17,800",Watches
-32,Blancpain,Fifty Fathoms,Stainless Steel,Canvas,Automatic,300 meters,45.0,15.4,23.0,Black,Sapphire,Date,120 hours,"11,500",Watches
-33,Zenith,El Primero,Stainless Steel,Alligator,Automatic,100 meters,42.0,12.75,20.0,Silver,Sapphire,Chronograph,50 hours,"6,500",Watches
-34,Breguet,Classique,18K Rose Gold,Leather,Automatic,30 meters,39.0,8.65,20.0,Silver,Sapphire,None,45 hours,"23,500",Watches
-35,Piaget,Polo S,Stainless Steel,Stainless Steel,Automatic,100 meters,42.0,9.4,24.0,Blue,Sapphire,Date,50 hours,"10,000",Watches
-36,Ulysse Nardin,Marine,Stainless Steel,Rubber,Automatic,100 meters,44.0,12.5,22.0,Blue,Sapphire,Date,60 hours,"9,500",Watches
-37,Vacheron Constantin,Overseas,Stainless Steel,Stainless Steel,Automatic,150 meters,41.0,11.0,20.0,Silver,Sapphire,Date,60 hours,"21,500",Watches
-38,Jaquet Droz,Grande Seconde,Stainless Steel,Leather,Automatic,30 meters,43.0,12.27,23.0,Black,Sapphire,None,68 hours,"9,800",Watches
-39,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50 meters,41.0,10.4,20.0,Blue,Sapphire,Date,60 hours,"19,900",Watches
-40,Blancpain,Fifty Fathoms,Stainless Steel,Canvas,Automatic,300 meters,45.0,15.5,22.0,Black,Sapphire,Date,120 hours,"14,400",Watches
-41,Breguet,Type XXI,Stainless Steel,Leather,Automatic,100 meters,42.0,13.85,22.0,Silver,Sapphire,Chronograph,48 hours,"9,500",Watches
-42,Bulgari,Octo Finissimo,Titanium,Leather,Automatic,100 meters,40.0,5.15,28.0,Black,Sapphire,None,60 hours,"12,800",Watches
-43,Chopard,Mille Miglia,Stainless Steel,Leather,Automatic,50 meters,44.0,13.7,20.0,Black,Sapphire,Chronograph,42 hours,"6,500",Watches
-44,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100 meters,42.0,10.88,20.0,Blue,Sapphire,None,54 hours,"7,800",Watches
-45,Glashütte Original,Senator,Stainless Steel,Leather,Automatic,50 meters,42.0,12.2,21.0,Silver,Sapphire,None,40 hours,"9,200",Watches
-46,Hublot,Classic Fusion,Titanium,Rubber,Automatic,50 meters,42.0,9.3,20.0,Black,Sapphire,None,42 hours,"6,500",Watches
-47,IWC,Portugieser,Stainless Steel,Leather,Automatic,30 meters,41.0,12.3,22.0,Silver,Sapphire,None,60 hours,"8,400",Watches
-48,Jaquet Droz,Grande Seconde,Stainless Steel,Leather,Automatic,30 meters,43.0,12.13,23.0,Silver,Sapphire,None,68 hours,"6,200",Watches
-49,Longines,Master Collection,Stainless Steel,Leather,Automatic,30 meters,38.5,9.3,20.0,Blue,Sapphire,Date,42 hours,"1,600",Watches
-50,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120 meters,40.5,8.3,20.0,Blue,Sapphire,Date,45 hours,"29,800",Watches
-51,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50 meters,41.0,9.8,20.0,Blue,Sapphire,Date,60 hours,"24,500",Watches
-52,IWC,Portugieser,Stainless Steel,Leather,Automatic,30 meters,41.0,12.3,22.0,Silver,Sapphire,None,60 hours,"7,950",Watches
-53,Hublot,Classic Fusion,Titanium,Rubber,Automatic,50 meters,42.0,10.5,22.0,Black,Sapphire,None,42 hours,"8,200",Watches
-54,Blancpain,Fifty Fathoms,Stainless Steel,Canvas,Automatic,300 meters,45.0,15.4,23.0,Black,Sapphire,Date,120 hours,"11,500",Watches
-55,Zenith,Chronomaster,Stainless Steel,Leather,Automatic,100 meters,42.0,13.1,22.0,Silver,Sapphire,Chronograph,50 hours,"9,400",Watches
-56,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100 meters,38.0,10.88,25.0,Blue,Sapphire,None,54 hours,"6,700",Watches
-57,Chopard,Mille Miglia,Stainless Steel,Leather,Automatic,50 meters,42.0,11.43,20.0,Black,Sapphire,Chronograph,42 hours,"6,100",Watches
-58,Vacheron Constantin,Overseas,Stainless Steel,Stainless Steel,Automatic,150 meters,41.0,11.0,22.0,Blue,Sapphire,Date,60 hours,"16,300",Watches
-59,Montblanc,1858,Stainless Steel,Leather,Automatic,100 meters,42.0,12.8,22.0,Black,Sapphire,None,38 hours,"3,600",Watches
-60,Ulysse Nardin,Marine,Stainless Steel,Rubber,Automatic,300 meters,44.0,12.5,22.0,Black,Sapphire,Date,60 hours,"9,500",Watches
-61,Rolex,Datejust,Stainless Steel,Stainless Steel,Automatic,100 meters,41.0,11.2,20.0,Silver,Sapphire,Date,70 hours,"8,900",Watches
-62,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120 meters,40.8,8.3,20.0,Blue,Sapphire,"Date, Moon Phase",48 hours,"44,500",Watches
-63,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50 meters,41.0,10.4,20.0,Blue,Sapphire,Date,60 hours,"17,000",Watches
-64,Tudor,Black Bay,Stainless Steel,Fabric,Automatic,200 meters,41.0,12.7,22.0,Black,Sapphire,None,70 hours,"4,500",Watches
-65,IWC,Portugieser,Stainless Steel,Leather,Automatic,30 meters,41.0,12.3,22.0,Silver,Sapphire,"Chronograph, Date",46 hours,"8,300",Watches
-66,Panerai,Luminor Marina,Stainless Steel,Leather,Automatic,300 meters,44.0,13.05,24.0,Black,Sapphire,"Date, Second Time Zone",72 hours,"8,900",Watches
-67,Blancpain,Fifty Fathoms,Stainless Steel,Fabric,Automatic,300 meters,43.6,13.83,23.0,Black,Sapphire,"Date, Unidirectional Bezel",120 hours,"12,000",Watches
-68,Hublot,Classic Fusion,Titanium,Rubber,Automatic,50 meters,45.0,10.95,24.0,Blue,Sapphire,Date,42 hours,"7,500",Watches
-69,Zenith,Chronomaster,Stainless Steel,Leather,Automatic,50 meters,42.0,14.05,22.0,Silver,Sapphire,"Chronograph, Date",50 hours,"6,900",Watches
-70,Vacheron Constantin,Overseas,Stainless Steel,Stainless Steel,Automatic,50 meters,41.0,11.0,20.0,Blue,Sapphire,"Date, Second Time Zone",60 hours,"15,500",Watches
-71,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100 meters,42.0,10.88,22.0,Black,Sapphire,None,54 hours,"11,200",Watches
-72,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50 meters,39.0,9.4,20.0,Blue,Sapphire,"Date, Power Reserve Indicator",60 hours,"18,900",Watches
-73,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120 meters,40.5,8.3,20.0,Blue,Sapphire,Date,45 hours,"49,800",Watches
-74,IWC,Pilot's Watch,Stainless Steel,Leather,Automatic,60 meters,41.0,12.5,20.0,Black,Sapphire,"Date, Chronograph",44 hours,"5,500",Watches
-75,Panerai,Luminor,Titanium,Rubber,Automatic,300 meters,44.0,15.65,24.0,Black,Sapphire,Date,72 hours,"9,600",Watches
-76,Breguet,Type XX,Stainless Steel,Leather,Automatic,100 meters,39.5,14.1,20.0,Black,Sapphire,"Date, Chronograph, Flyback",48 hours,"8,800",Watches
-77,Blancpain,Fifty Fathoms,Stainless Steel,Rubber,Automatic,300 meters,43.0,13.4,23.0,Black,Sapphire,Date,120 hours,"14,700",Watches
-78,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100 meters,42.0,10.88,22.0,Blue,Sapphire,Date,54 hours,"10,600",Watches
-79,Vacheron Constantin,Overseas,Stainless Steel,Stainless Steel,Automatic,150 meters,41.0,11.0,20.0,Black,Sapphire,Date,60 hours,"19,200",Watches
-80,Zenith,El Primero,Stainless Steel,Leather,Automatic,100 meters,38.0,12.15,19.0,Silver,Sapphire,Chronograph,50 hours,"7,500",Watches
-81,Chopard,Mille Miglia,Stainless Steel,Leather,Automatic,50 meters,42.0,12.67,20.0,Black,Sapphire,Chronograph,48 hours,"5,600",Watches
-82,Longines,HydroConquest,Stainless Steel,Stainless Steel,Automatic,300 meters,43.0,12.75,22.0,Blue,Sapphire,Date,64 hours,"1,400",Watches
-83,Rolex,Submariner,Stainless Steel,Stainless Steel,Automatic,300 meters,40.0,13.0,20.0,Black,Sapphire,Date,48 hours,"9,500",Watches
-84,Omega,Seamaster,Titanium,Rubber,Automatic,600 meters,43.5,14.47,21.0,Blue,Sapphire,Date,60 hours,"5,800",Watches
-85,Tag Heuer,Carrera,Stainless Steel,Leather,Automatic,100 meters,41.0,13.0,20.0,White,Sapphire,Chronograph,42 hours,"4,200",Watches
-86,Breitling,Navitimer,Stainless Steel,Stainless Steel,Automatic,30 meters,43.0,14.25,22.0,Black,Sapphire,Chronograph,70 hours,"7,900",Watches
-88,Jaeger-LeCoultre,Reverso,Stainless Steel,Leather,Manual,30 meters,42.9,9.2,20.0,Black,Sapphire,None,45 hours,"5,500",Watches
-89,Tudor,Black Bay,Stainless Steel,Leather,Automatic,200 meters,41.0,12.75,22.0,Black,Sapphire,Date,70 hours,"3,500",Watches
-90,Seiko,Prospex,Stainless Steel,Silicone,Automatic,200 meters,42.3,13.4,22.0,Blue,Hardlex,None,50 hours,650,Watches
-91,Citizen,Promaster,Titanium,Titanium,Eco-Drive,200 meters,46.5,15.0,23.0,Black,Sapphire,Chronograph,210 days,995,Watches
-92,Hamilton,Khaki Field Auto,Stainless Steel,Leather,Automatic,100 meters,38.0,9.85,20.0,Black,Sapphire,None,80 hours,545,Watches
-94,Omega,Speedmaster,Stainless Steel,Stainless Steel,Manual,50 meters,42.0,14.3,20.0,Black,Hesalite,"Chronograph, Tachymeter",48 hours,"5,500",Watches
-95,Breitling,Superocean Heritage,Stainless Steel,Rubber,Automatic,200 meters,42.0,14.35,22.0,Black,Sapphire,Date,38 hours,"4,800",Watches
-96,Jaeger-LeCoultre,Master Control,Stainless Steel,Leather,Automatic,50 meters,40.0,8.8,20.0,Silver,Sapphire,Date,70 hours,"6,500",Watches
-97,Cartier,Santos,Stainless Steel,Stainless Steel,Automatic,100 meters,39.8,9.08,21.5,Silver,Sapphire,Date,42 hours,"7,500",Watches
-98,Zenith,Elite,Stainless Steel,Leather,Automatic,50 meters,40.5,9.15,20.0,Silver,Sapphire,None,50 hours,"4,500",Watches
-99,Panerai,Luminor Base,Stainless Steel,Leather,Manual,100 meters,44.0,10.5,24.0,Black,Sapphire,None,56 hours,"5,800",Watches
-100,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50 meters,41.0,10.4,20.0,Silver,Sapphire,Date,60 hours,"21,000",Watches
-101,IWC,Pilot's Watch,Stainless Steel,Leather,Automatic,60 meters,41.0,10.86,20.0,Black,Sapphire,Date,42 hours,"3,800",Watches
-102,Tudor,Black Bay,Stainless Steel,Leather,Automatic,200 meters,41.0,12.7,22.0,Black,Sapphire,Date,70 hours,"3,900",Watches
-104,Sinn,U1,Stainless Steel,Rubber,Automatic,1000 meters,44.0,14.3,22.0,Black,Sapphire,None,38 hours,"2,500",Watches
-105,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120 meters,40.8,8.3,20.0,Blue,Sapphire,"Date, Power Reserve, Moon Phase",45 hours,"38,000",Watches
-106,Audemars Piguet,Royal Oak,Rose Gold,Rose Gold,Automatic,50 meters,41.0,9.8,20.0,Blue,Sapphire,Date,60 hours,"55,000",Watches
-107,Vacheron Constantin,Overseas,Stainless Steel,Stainless Steel,Automatic,150 meters,41.0,11.0,22.0,Blue,Sapphire,"Date, Power Reserve",40 hours,"21,000",Watches
-108,A. Lange & Sohne,Saxonia,White Gold,Leather,Manual,30 meters,38.5,7.8,18.0,Silver,Sapphire,None,45 hours,"23,000",Watches
-109,Breguet,Classique,Rose Gold,Leather,Manual,30 meters,38.5,8.25,20.0,Silver,Sapphire,Power Reserve,65 hours,"23,000",Watches
-110,IWC,Portugieser,Stainless Steel,Leather,Automatic,30 meters,41.0,12.3,22.0,Blue,Sapphire,None,60 hours,"8,500",Watches
-111,Blancpain,Fifty Fathoms,Stainless Steel,Fabric,Automatic,300 meters,45.0,15.5,23.0,Black,Sapphire,Date,120 hours,"14,000",Watches
-112,Hublot,Big Bang,Titanium,Rubber,Automatic,100 meters,44.0,14.5,24.0,Blue,Sapphire,Chronograph,72 hours,"16,000",Watches
-113,Panerai,Luminor Marina,Stainless Steel,Leather,Automatic,300 meters,44.0,15.65,24.0,Black,Sapphire,None,72 hours,"8,500",Watches
-114,Zenith,El Primero,Stainless Steel,Leather,Automatic,100 meters,42.0,12.75,20.0,Silver,Sapphire,Chronograph,50 hours,"6,000",Watches
-115,Piaget,Altiplano,White Gold,Leather,Manual,30 meters,38.0,6.1,20.0,Silver,Sapphire,None,43 hours,"16,500",Watches
-116,Seiko,Prospex,Stainless Steel,Silicone,Automatic,200 meters,44.3,12.7,20.0,Blue,Sapphire,Day/Date,41 hours,"1,200",Watches
-117,Panerai,Luminor Due,Stainless Steel,Leather,Automatic,30 meters,38.0,11.2,20.0,Black,Sapphire,None,72 hours,"6,500",Watches
-118,IWC,Portugieser,Stainless Steel,Leather,Automatic,30 meters,41.0,12.3,22.0,Blue,Sapphire,"Chronograph, Moon Phase",46 hours,"9,800",Watches
-119,Blancpain,Fifty Fathoms,Titanium,Rubber,Automatic,300 meters,45.0,15.5,23.0,Black,Sapphire,None,120 hours,"16,800",Watches
-120,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50 meters,41.0,9.5,20.0,Black,Sapphire,Date,60 hours,"19,800",Watches
-121,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120 meters,40.8,8.3,20.0,Blue,Sapphire,Date,45 hours,"47,000",Watches
-122,Breguet,Classique,18K Rose Gold,Leather,Automatic,30 meters,40.0,6.8,20.0,White,Sapphire,None,55 hours,"19,000",Watches
-123,Vacheron Constantin,Patrimony,18K White Gold,Leather,Manual,30 meters,40.0,6.79,20.0,Silver,Sapphire,None,65 hours,"18,500",Watches
-124,Chopard,Mille Miglia,Stainless Steel,Leather,Automatic,50 meters,44.0,14.97,22.0,Black,Sapphire,Chronograph,42 hours,"5,800",Watches
-125,Longines,Conquest,Stainless Steel,Stainless Steel,Automatic,300 meters,41.0,13.2,20.0,Black,Sapphire,Chronograph,54 hours,"2,200",Watches
-126,Montblanc,1858,Stainless Steel,Leather,Manual,30 meters,44.0,12.3,22.0,Black,Sapphire,None,50 hours,"3,500",Watches
-127,Rolex,GMT-Master II,Stainless Steel,Stainless Steel,Automatic,100 meters,40.0,12.5,20.0,Black,Sapphire,"GMT, Date",70 hours,"9,950",Watches
-128,Omega,Speedmaster,Stainless Steel,Stainless Steel,Automatic,50 meters,42.0,13.7,20.0,Black,Hesalite,Chronograph,48 hours,"4,950",Watches
-129,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120 meters,40.8,8.3,20.0,Blue,Sapphire,Date,45 hours,"38,000",Watches
-130,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50 meters,41.0,9.8,20.0,Blue,Sapphire,Date,60 hours,"22,000",Watches
-131,IWC,Portugieser,Stainless Steel,Leather,Automatic,30 meters,41.0,12.3,22.0,Silver,Sapphire,None,46 hours,"7,500",Watches
-132,Jaeger-LeCoultre,Master Ultra Thin,Stainless Steel,Leather,Automatic,50 meters,39.0,7.58,20.0,Silver,Sapphire,Date,70 hours,"8,900",Watches
-133,Blancpain,Fifty Fathoms,Stainless Steel,Fabric,Automatic,300 meters,45.0,15.4,23.0,Black,Sapphire,Date,120 hours,"13,900",Watches
-134,Breguet,Classique,Rose Gold,Leather,Manual,30 meters,40.0,6.8,20.0,Silver,Sapphire,None,65 hours,"20,500",Watches
-135,Ulysse Nardin,Marine,Titanium,Rubber,Automatic,300 meters,44.0,14.5,22.0,Blue,Sapphire,Date,60 hours,"9,500",Watches
-136,Hublot,Big Bang,Ceramic,Rubber,Automatic,100 meters,41.0,14.5,20.0,Black,Sapphire,Chronograph,72 hours,"16,000",Watches
-137,Zenith,El Primero,Stainless Steel,Leather,Automatic,100 meters,38.0,12.75,20.0,White,Sapphire,Chronograph,50 hours,"5,500",Watches
-138,Rolex,Datejust,Stainless Steel,Stainless Steel,Automatic,100 meters,41.0,11.8,20.0,Black,Sapphire,Date,70 hours,"8,200",Watches
-139,Omega,Speedmaster Moonwatch,Stainless Steel,Stainless Steel,Manual,50 meters,42.0,13.2,20.0,Black,Hesalite,"Chronograph, Tachymeter",48 hours,"5,500",Watches
-140,Cartier,Ballon Bleu,Stainless Steel,Stainless Steel,Automatic,30 meters,33.0,9.96,18.0,Silver,Sapphire,Date,42 hours,"6,500",Watches
-141,Breitling,Superocean,Stainless Steel,Rubber,Automatic,500 meters,42.0,13.32,20.0,Blue,Sapphire,Date,38 hours,"3,600",Watches
-142,Patek Philippe,Calatrava,Rose Gold,Leather,Manual,30 meters,36.0,7.45,18.0,White,Sapphire,None,44 hours,"18,000",Watches
-143,Hublot,Big Bang,Titanium,Rubber,Automatic,100 meters,42.0,14.5,24.0,Black,Sapphire,"Chronograph, Date",72 hours,"8,900",Watches
-144,Blancpain,Fifty Fathoms,Stainless Steel,Canvas,Automatic,300 meters,45.0,15.4,23.0,Black,Sapphire,"Date, Rotating Bezel",120 hours,"13,500",Watches
-145,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50 meters,41.0,10.4,20.0,Blue,Sapphire,Date,60 hours,"26,000",Watches
-146,Zenith,El Primero,Stainless Steel,Leather,Automatic,100 meters,42.0,12.75,22.0,Black,Sapphire,Chronograph,50 hours,"6,500",Watches
-147,IWC,Portugieser,Stainless Steel,Leather,Automatic,30 meters,41.5,12.3,22.0,Silver,Sapphire,None,60 hours,"7,800",Watches
-148,Jaeger-LeCoultre,Master Ultra Thin,Stainless Steel,Leather,Automatic,50 meters,38.0,7.58,20.0,Silver,Sapphire,None,70 hours,"4,500",Watches
-149,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120 meters,40.5,8.3,22.0,Blue,Sapphire,Date,45 hours,"29,800",Watches
-150,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50 meters,41.0,9.8,20.0,Black,Sapphire,Date,60 hours,"23,100",Watches
-151,IWC,Portugieser,Stainless Steel,Leather,Automatic,30 meters,41.0,12.3,22.0,Silver,Sapphire,None,60 hours,"7,950",Watches
-152,Vacheron Constantin,Overseas,Stainless Steel,Rubber,Automatic,150 meters,41.5,11.0,22.0,Blue,Sapphire,Date,40 hours,"18,900",Watches
-153,Blancpain,Fifty Fathoms,Stainless Steel,Canvas,Automatic,300 meters,45.0,15.5,23.0,Black,Sapphire,Date,120 hours,"12,800",Watches
-154,Hublot,Big Bang,Ceramic,Rubber,Automatic,100 meters,44.0,14.5,26.0,Black,Sapphire,Chronograph,72 hours,"17,900",Watches
-155,Breguet,Classique,18k Rose Gold,Leather,Manual,30 meters,39.0,8.65,20.0,Silver,Sapphire,None,40 hours,"15,200",Watches
-156,Ulysse Nardin,Marine,Stainless Steel,Leather,Automatic,100 meters,42.2,14.2,22.0,Blue,Sapphire,Date,60 hours,"8,400",Watches
-157,Zenith,Defy,Titanium,Rubber,Automatic,100 meters,41.0,10.75,22.0,Blue,Sapphire,Chronograph,50 hours,"9,500",Watches
-158,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100 meters,42.0,10.88,22.0,Silver,Sapphire,None,46 hours,"9,200",Watches
-159,Panerai,Luminor,Stainless Steel,Leather,Manual,100 meters,44.0,13.05,24.0,Black,Sapphire,None,56 hours,"7,500",Watches
-160,Seiko,Prospex,Stainless Steel,Silicone,Automatic,200 meters,43.0,13.2,22.0,Blue,Hardlex,Date,50 hours,"1,300",Watches
-161,Tissot,Le Locle,Stainless Steel,Leather,Automatic,30 meters,39.3,9.75,20.0,Silver,Sapphire,Date,38 hours,650,Watches
-162,Longines,Master Collection,Stainless Steel,Leather,Automatic,30 meters,40.0,10.25,20.0,Black,Sapphire,Date,64 hours,"2,500",Watches
-163,Hamilton,Jazzmaster,Stainless Steel,Leather,Automatic,50 meters,40.0,11.15,20.0,Silver,Sapphire,Date,80 hours,"1,150",Watches
-164,Montblanc,Heritage,Stainless Steel,Leather,Automatic,50 meters,40.0,9.85,20.0,Silver,Sapphire,Date,42 hours,"2,750",Watches
-166,Frederique Constant,Classics,Stainless Steel,Leather,Automatic,50 meters,40.0,10.5,20.0,Silver,Sapphire,Date,38 hours,"1,400",Watches
-167,Zenith,Elite,Stainless Steel,Leather,Automatic,50 meters,40.5,8.15,22.0,White,Sapphire,Date,50 hours,"5,500",Watches
-168,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100 meters,38.0,10.88,25.0,Black,Sapphire,Date,46 hours,"8,700",Watches
-169,Ulysse Nardin,Marine Torpilleur,Stainless Steel,Leather,Automatic,50 meters,42.0,11.15,20.0,Blue,Sapphire,Date,60 hours,"7,900",Watches
-170,Sinn,U50,German Submarine Steel,Silicone,Automatic,500 meters,45.0,14.7,22.0,Black,Sapphire,None,38 hours,"3,350",Watches
-171,Rolex,Datejust,Stainless Steel,Jubilee,Automatic,100 meters,36.0,12.5,20.0,Black,Sapphire,Date,70 hours,"8,000",Watches
-172,Omega,Speedmaster,Stainless Steel,Stainless Steel,Automatic,50 meters,42.0,13.5,20.0,Black,Sapphire,Chronograph,60 hours,"6,500",Watches
-173,Cartier,Ballon Bleu,Stainless Steel,Leather,Automatic,30 meters,33.0,9.96,16.0,Silver,Sapphire,Date,42 hours,"4,500",Watches
-175,Breitling,Superocean,Stainless Steel,Rubber,Automatic,2000 meters,42.0,13.32,20.0,Blue,Sapphire,Date,38 hours,"3,600",Watches
-176,IWC,Portugieser,Stainless Steel,Leather,Automatic,30 meters,41.0,12.3,22.0,Blue,Sapphire,Date,60 hours,"8,900",Watches
-177,Panerai,Luminor Marina,Titanium,Leather,Manual,300 meters,44.0,13.05,24.0,Black,Sapphire,None,56 hours,"5,700",Watches
-178,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120 meters,40.5,8.3,22.0,Blue,Sapphire,Date,45 hours,"34,000",Watches
-179,Jaeger-LeCoultre,Master Ultra Thin,Stainless Steel,Leather,Automatic,50 meters,39.0,7.58,20.0,Silver,Sapphire,None,43 hours,"6,800",Watches
-180,Bell & Ross,BR V2-92,Stainless Steel,Rubber,Automatic,100 meters,41.0,9.7,22.0,Black,Sapphire,Date,40 hours,"2,500",Watches
-181,Montblanc,1858,Bronze,Leather,Automatic,100 meters,44.0,12.8,22.0,Black,Sapphire,None,42 hours,"5,300",Watches
-182,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120 meters,40.5,8.3,22.0,Blue,Sapphire,Date,45 hours,"34,000",Watches
-183,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50 meters,41.0,9.8,20.0,Black,Sapphire,Date,60 hours,"22,000",Watches
-184,Vacheron Constantin,Overseas,Stainless Steel,Rubber,Automatic,150 meters,41.0,11.0,21.0,Blue,Sapphire,Date,60 hours,"17,500",Watches
-185,IWC,Portugieser,Stainless Steel,Leather,Automatic,30 meters,41.0,13.1,22.0,Silver,Sapphire,Date,60 hours,"8,500",Watches
-186,Hublot,Big Bang,Ceramic,Rubber,Automatic,100 meters,44.5,14.5,22.0,Black,Sapphire,Chronograph,72 hours,"15,000",Watches
-187,Zenith,El Primero,Stainless Steel,Leather,Automatic,100 meters,38.0,12.4,19.0,White,Sapphire,Chronograph,50 hours,"6,000",Watches
-188,Chopard,Mille Miglia,Stainless Steel,Leather,Automatic,50 meters,42.0,12.67,20.0,Black,Sapphire,Chronograph,48 hours,"5,000",Watches
-189,Panerai,Luminor,Titanium,Rubber,Automatic,300 meters,44.0,13.05,24.0,Black,Sapphire,None,72 hours,"8,500",Watches
-190,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100 meters,42.0,10.88,22.0,Blue,Sapphire,Date,54 hours,"9,000",Watches
-191,Blancpain,Fifty Fathoms,Stainless Steel,NATO Strap,Automatic,300 meters,45.0,15.5,23.0,Black,Sapphire,None,120 hours,"12,500",Watches
-192,Bulgari,Octo Finissimo,Titanium,Leather,Automatic,30 meters,40.0,5.5,21.0,Black,Sapphire,None,55 hours,"10,000",Watches
-193,Tudor,Black Bay,Stainless Steel,Leather,Automatic,200 meters,41.0,12.7,22.0,Black,Sapphire,Date,70 hours,"3,800",Watches
-194,Panerai,Luminor Marina,Stainless Steel,Leather,Automatic,300 meters,44.0,13.05,22.0,Black,Sapphire,Date,72 hours,"8,900",Watches
-195,Hublot,Big Bang,Titanium,Rubber,Automatic,100 meters,44.0,14.5,25.0,Black,Sapphire,Chronograph,72 hours,"16,800",Watches
-196,IWC,Portugieser,Stainless Steel,Leather,Automatic,30 meters,40.9,12.3,20.0,Silver,Sapphire,Date,44 hours,"6,900",Watches
-197,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50 meters,41.0,9.8,20.0,Blue,Sapphire,Date,60 hours,"24,500",Watches
-198,Vacheron Constantin,Overseas,Stainless Steel,Rubber,Automatic,150 meters,41.5,11.0,21.0,Silver,Sapphire,Date,40 hours,"19,500",Watches
-199,Breguet,Classique,18k White Gold,Leather,Automatic,30 meters,39.0,8.65,20.0,Silver,Sapphire,Date,55 hours,"24,500",Watches
-200,Piaget,Altiplano,18k Rose Gold,Leather,Manual,30 meters,38.0,6.0,20.0,White,Sapphire,None,43 hours,"20,800",Watches
-201,Blancpain,Fifty Fathoms,Stainless Steel,Fabric,Automatic,300 meters,45.0,15.5,23.0,Black,Sapphire,Date,120 hours,"13,000",Watches
-202,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100 meters,41.0,10.88,22.0,Black,Sapphire,Date,46 hours,"9,700",Watches
-203,Zenith,Chronomaster,Stainless Steel,Leather,Automatic,50 meters,42.0,14.05,22.0,Silver,Sapphire,Chronograph,50 hours,"7,400",Watches
-204,Breitling,Superocean Heritage II,Stainless Steel,Rubber,Automatic,200 meters,44.0,14.2,22.0,Black,Sapphire,Date,70 hours,"4,300",Watches
-205,Cartier,Santos de Cartier,Stainless Steel,Stainless Steel,Automatic,100 meters,39.8,9.08,20.0,Silver,Sapphire,Date,42 hours,"6,500",Watches
-206,Omega,Speedmaster,Stainless Steel,Leather,Manual,50 meters,42.0,13.7,20.0,Black,Hesalite,Chronograph,48 hours,"5,500",Watches
-207,Rolex,GMT-Master II,Stainless Steel,Stainless Steel,Automatic,100 meters,40.0,12.4,20.0,Black,Sapphire,"GMT, Date",70 hours,"9,100",Watches
-208,Jaeger-LeCoultre,Master Control,Stainless Steel,Leather,Automatic,50 meters,40.0,8.8,20.0,Silver,Sapphire,Date,70 hours,"7,500",Watches
-209,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50 meters,41.0,10.4,20.0,Blue,Sapphire,Date,60 hours,"20,900",Watches
-210,IWC,Pilot's Watch Mark XVIII,Stainless Steel,Leather,Automatic,60 meters,40.0,10.8,20.0,Black,Sapphire,Date,42 hours,"4,200",Watches
-211,Patek Philippe,Calatrava,18k White Gold,Leather,Automatic,30 meters,39.0,8.6,20.0,Silver,Sapphire,Date,48 hours,"22,000",Watches
-213,Tudor,Black Bay,Stainless Steel,Leather,Automatic,200 meters,41.0,12.7,22.0,Black,Sapphire,Date,70 hours,"3,600",Watches
-214,Rolex,Datejust,Stainless Steel,Jubilee Bracelet,Automatic,100 meters,36.0,12.5,20.0,Silver,Sapphire,Date,70 hours,"8,900",Watches
-215,Omega,Speedmaster,Stainless Steel,Stainless Steel,Automatic,50 meters,42.0,13.5,20.0,Black,Sapphire,Chronograph,60 hours,"6,800",Watches
-217,Breitling,Superocean Heritage,Stainless Steel,Leather,Automatic,200 meters,42.0,14.35,20.0,Black,Sapphire,Date,38 hours,"4,400",Watches
-218,Cartier,Ballon Bleu,18k Rose Gold,Leather,Automatic,30 meters,33.0,9.96,18.0,Silver,Sapphire,Date,42 hours,"13,000",Watches
-219,Jaeger-LeCoultre,Master Control,Stainless Steel,Leather,Automatic,50 meters,39.0,8.5,20.0,Silver,Sapphire,Date,70 hours,"7,500",Watches
-220,Tudor,Black Bay GMT,Stainless Steel,Stainless Steel,Automatic,200 meters,41.0,14.5,22.0,Black,Sapphire,GMT,70 hours,"4,500",Watches
-221,Zenith,El Primero,Stainless Steel,Leather,Automatic,100 meters,38.0,12.45,19.0,White,Sapphire,Chronograph,50 hours,"6,900",Watches
-222,Longines,HydroConquest,Stainless Steel,Stainless Steel,Automatic,300 meters,41.0,12.65,20.0,Black,Sapphire,Date,64 hours,"1,800",Watches
-223,Oris,Divers Sixty-Five,Stainless Steel,Leather,Automatic,100 meters,40.0,12.9,20.0,Blue,Sapphire,Date,38 hours,"1,500",Watches
-224,Hamilton,Khaki Field,Stainless Steel,NATO Strap,Automatic,100 meters,38.0,9.7,20.0,Black,Sapphire,None,80 hours,595,Watches
-225,Panerai,Luminor Marina,Stainless Steel,Leather,Automatic,300 meters,42.0,13.2,22.0,Black,Sapphire,Date,72 hours,"7,500",Watches
-226,IWC,Pilot's Watch,Stainless Steel,Leather,Automatic,60 meters,41.0,15.3,22.0,Black,Sapphire,Date,72 hours,"5,400",Watches
-227,Patek Philippe,Calatrava,White Gold,Leather,Manual,30 meters,37.0,7.7,20.0,White,Sapphire,None,44 hours,"25,000",Watches
-228,Hublot,Big Bang,Carbon Fiber,Rubber,Automatic,100 meters,44.0,14.5,25.0,Black,Sapphire,Chronograph,72 hours,"15,000",Watches
-229,Zenith,Chronomaster,Stainless Steel,Leather,Automatic,50 meters,38.0,12.6,20.0,Silver,Sapphire,Chronograph,50 hours,"7,500",Watches
-230,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50 meters,41.0,9.8,20.0,Blue,Sapphire,Date,60 hours,"25,000",Watches
-231,Vacheron Constantin,Overseas,Stainless Steel,Stainless Steel,Automatic,50 meters,41.0,11.0,22.0,Blue,Sapphire,Date,40 hours,"18,000",Watches
-232,Breguet,Classique,White Gold,Leather,Automatic,30 meters,39.0,8.65,21.0,Silver,Sapphire,None,55 hours,"20,000",Watches
-233,Ulysse Nardin,Marine,Stainless Steel,Rubber,Automatic,100 meters,42.0,12.8,22.0,Blue,Sapphire,Date,60 hours,"8,500",Watches
-234,Blancpain,Fifty Fathoms,Stainless Steel,Canvas,Automatic,300 meters,45.0,15.5,23.0,Black,Sapphire,None,120 hours,"10,500",Watches
-235,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100 meters,42.0,10.88,22.0,Black,Sapphire,Date,54 hours,"9,000",Watches
-236,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120 meters,40.8,8.3,21.0,Blue,Sapphire,Date,55 hours,"51,000",Watches
-237,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50 meters,41.0,9.8,20.0,Blue,Sapphire,Date,60 hours,"22,000",Watches
-238,IWC,Pilot's Watch,Stainless Steel,Leather,Automatic,60 meters,46.2,15.0,20.0,Black,Sapphire,Chronograph,68 hours,"7,500",Watches
-239,Blancpain,Fifty Fathoms,Titanium,Fabric,Automatic,300 meters,45.0,15.4,23.0,Black,Sapphire,Date,120 hours,"14,500",Watches
-240,Vacheron Constantin,Overseas,Stainless Steel,Stainless Steel,Automatic,150 meters,41.0,11.0,22.0,Silver,Sapphire,Date,60 hours,"21,500",Watches
-241,Zenith,El Primero,Stainless Steel,Leather,Automatic,100 meters,42.0,12.75,20.0,Black,Sapphire,Chronograph,50 hours,"7,500",Watches
-242,Hublot,Big Bang,Titanium,Rubber,Automatic,100 meters,44.0,14.5,22.0,Black,Sapphire,Chronograph,72 hours,"15,000",Watches
-243,Breguet,Classique,18k Rose Gold,Leather,Automatic,30 meters,39.0,10.2,22.0,Silver,Sapphire,None,40 hours,"18,000",Watches
-245,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100 meters,41.0,10.88,22.0,Blue,Sapphire,Date,54 hours,"11,500",Watches
-246,Panerai,Luminor Marina,Stainless Steel,Leather,Automatic,300 meters,44.0,15.65,24.0,Black,Sapphire,Date,72 hours,"8,000",Watches
-247,Tudor,Black Bay,Stainless Steel,Leather,Automatic,200 meters,41.0,14.75,22.0,Black,Sapphire,None,70 hours,"3,800",Watches
-248,Panerai,Luminor,Stainless Steel,Leather,Manual,100 meters,44.0,13.05,24.0,Black,Sapphire,None,56 hours,"6,400",Watches
-249,IWC,Portugieser,Stainless Steel,Leather,Automatic,30 meters,41.0,12.3,22.0,Silver,Sapphire,Date,60 hours,"8,900",Watches
-250,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50 meters,41.0,9.8,20.0,Blue,Sapphire,Date,60 hours,"20,400",Watches
-251,Vacheron Constantin,Overseas,Stainless Steel,Rubber,Automatic,150 meters,41.0,11.0,21.0,Blue,Sapphire,Date,60 hours,"22,000",Watches
-252,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120 meters,40.8,8.3,21.0,Blue,Sapphire,Date,45 hours,"62,500",Watches
-253,Blancpain,Fifty Fathoms,Stainless Steel,Canvas,Automatic,300 meters,45.0,15.5,23.0,Black,Sapphire,Date,120 hours,"14,900",Watches
-254,Chopard,Mille Miglia,Stainless Steel,Leather,Automatic,50 meters,42.0,12.67,20.0,Silver,Sapphire,Chronograph,42 hours,"5,900",Watches
-255,Longines,Master Collection,Stainless Steel,Leather,Automatic,30 meters,40.0,9.35,20.0,Silver,Sapphire,Date,64 hours,"1,500",Watches
-256,Montblanc,Heritage,Stainless Steel,Leather,Automatic,50 meters,40.0,9.85,20.0,Black,Sapphire,Date,38 hours,"2,700",Watches
-257,Zenith,El Primero,Stainless Steel,Leather,Automatic,100 meters,42.0,12.75,20.0,Black,Sapphire,Chronograph,50 hours,"6,500",Watches
-258,Rolex,Datejust,Stainless Steel,Stainless Steel,Automatic,100 meters,41.0,11.8,21.0,Blue,Sapphire,Date,70 hours,"7,800",Watches
-259,Omega,Speedmaster,Stainless Steel,Stainless Steel,Automatic,50 meters,42.0,13.75,20.0,Black,Sapphire,"Chronograph, Date",48 hours,"5,300",Watches
-260,Tag Heuer,Monaco,Stainless Steel,Leather,Automatic,100 meters,39.0,14.5,22.0,Blue,Sapphire,Chronograph,42 hours,"5,900",Watches
-261,Breitling,Superocean,Stainless Steel,Rubber,Automatic,1000 meters,44.0,14.21,22.0,Blue,Sapphire,Date,38 hours,"3,800",Watches
-262,Cartier,Ballon Bleu,Stainless Steel,Stainless Steel,Automatic,30 meters,42.0,13.0,22.0,Silver,Sapphire,Date,42 hours,"7,500",Watches
-263,Jaeger-LeCoultre,Master Ultra Thin,Stainless Steel,Leather,Automatic,50 meters,39.0,7.5,20.0,White,Sapphire,Date,38 hours,"6,200",Watches
-264,Rolex,GMT-Master II,Stainless Steel,Stainless Steel,Automatic,100 meters,40.0,12.5,20.0,Black,Sapphire,"GMT, Date",70 hours,"9,500",Watches
-265,Omega,Aqua Terra,Stainless Steel,Stainless Steel,Automatic,150 meters,41.5,13.0,20.0,Silver,Sapphire,Date,60 hours,"4,700",Watches
-266,Tag Heuer,Aquaracer,Stainless Steel,Stainless Steel,Automatic,300 meters,41.0,12.5,20.0,Black,Sapphire,Date,38 hours,"2,700",Watches
-267,Breitling,Avenger II,Stainless Steel,Rubber,Automatic,300 meters,43.0,16.5,22.0,Black,Sapphire,"Chronograph, Date",42 hours,"4,600",Watches
-268,Cartier,Santos,Stainless Steel,Leather,Automatic,100 meters,35.1,8.83,22.0,Silver,Sapphire,Date,42 hours,"5,300",Watches
-269,Rolex,Daytona,Yellow Gold,Leather,Automatic,100 meters,40.0,12.4,20.0,Ivory,Sapphire,Chronograph,72 hours,"39,500",Watches
-270,Omega,Speedmaster,Stainless Steel,Stainless Steel,Manual,50 meters,42.0,14.3,20.0,Black,Sapphire,Chronograph,48 hours,"5,400",Watches
-271,TAG Heuer,Monaco,Stainless Steel,Leather,Automatic,100 meters,39.0,14.0,22.0,Blue,Sapphire,Chronograph,42 hours,"6,550",Watches
-273,Breitling,Superocean,Stainless Steel,Rubber,Automatic,1000 meters,42.0,13.32,20.0,Blue,Sapphire,Date,38 hours,"3,850",Watches
-274,Patek Philippe,Calatrava,White Gold,Leather,Automatic,30 meters,39.0,8.25,20.0,Silver,Sapphire,None,48 hours,"25,800",Watches
-275,Tudor,Black Bay,Stainless Steel,Fabric,Automatic,200 meters,41.0,11.9,22.0,Black,Sapphire,Date,70 hours,"4,100",Watches
-276,Blancpain,Fifty Fathoms,Stainless Steel,Rubber,Automatic,300 meters,45.0,15.5,23.0,Black,Sapphire,Date,120 hours,"12,900",Watches
-277,IWC,Portugieser,Stainless Steel,Leather,Automatic,30 meters,41.0,12.3,22.0,Blue,Sapphire,None,60 hours,"6,900",Watches
-278,Vacheron Constantin,Overseas,Stainless Steel,Rubber,Automatic,150 meters,41.0,11.0,22.0,Blue,Sapphire,Date,40 hours,"19,800",Watches
-279,Rolex,Datejust,Stainless Steel,Stainless Steel,Automatic,100 meters,36.0,12.0,20.0,Black,Sapphire,Date,70 hours,"8,100",Watches
-280,Rolex,Datejust,Stainless Steel,Stainless Steel,Automatic,100 meters,36.0,12.5,20.0,Black,Sapphire,Date,70 hours,"6,500",Watches
-281,Omega,Speedmaster Moonwatch,Stainless Steel,Stainless Steel,Manual,50 meters,42.0,14.3,20.0,Black,Hesalite,Chronograph,48 hours,"5,400",Watches
-282,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120 meters,40.5,8.3,20.0,Blue,Sapphire,Date,55 hours,"44,000",Watches
-283,Cartier,Ballon Bleu,18k Rose Gold,Leather,Automatic,30 meters,33.0,9.96,18.0,Silver,Sapphire,Date,42 hours,"13,200",Watches
-284,Hublot,Classic Fusion,18k King Gold,Rubber,Automatic,50 meters,42.0,10.5,22.0,Blue,Sapphire,None,42 hours,"20,200",Watches
-285,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50 meters,41.0,10.4,20.0,Blue,Sapphire,Date,60 hours,"24,800",Watches
-286,IWC,Pilot's Watch,Stainless Steel,Leather,Automatic,60 meters,41.0,12.8,22.0,Black,Sapphire,Date,42 hours,"4,800",Watches
-287,Tudor,Black Bay GMT,Stainless Steel,Stainless Steel,Automatic,200 meters,41.0,14.5,22.0,Black,Sapphire,GMT,70 hours,"4,000",Watches
-288,Breguet,Classique,18k White Gold,Leather,Manual,30 meters,40.0,6.95,20.0,White,Sapphire,None,65 hours,"22,500",Watches
-289,Blancpain,Fifty Fathoms,Stainless Steel,Rubber,Automatic,300 meters,45.0,15.4,23.0,Black,Sapphire,Date,120 hours,"12,500",Watches
-290,Chopard,Mille Miglia,Stainless Steel,Leather,Automatic,50 meters,42.0,12.67,22.0,Black,Sapphire,Chronograph,42 hours,"6,900",Watches
-291,Panerai,Luminor,Titanium,Leather,Automatic,100 meters,44.0,15.65,24.0,Black,Sapphire,None,72 hours,"7,500",Watches
-292,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50 meters,41.0,10.4,20.0,Blue,Sapphire,"Date, Stopwatch",60 hours,"25,000",Watches
-293,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120 meters,40.5,8.3,22.0,Blue,Sapphire,"Date, Moon Phase",45 hours,"70,000",Watches
-294,IWC,Pilot's Watch,Stainless Steel,Leather,Automatic,60 meters,41.0,10.8,20.0,Black,Sapphire,"Date, Stopwatch",42 hours,"5,500",Watches
-295,Blancpain,Fifty Fathoms,Titanium,Fabric,Automatic,300 meters,45.0,15.4,23.0,Black,Sapphire,Date,120 hours,"12,000",Watches
-296,Ulysse Nardin,Marine,Stainless Steel,Rubber,Automatic,100 meters,44.0,14.4,22.0,Blue,Sapphire,"Date, Power Reserve",60 hours,"7,500",Watches
-297,Breguet,Classique,Rose Gold,Leather,Automatic,30 meters,38.0,8.25,20.0,Silver,Sapphire,None,45 hours,"20,000",Watches
-298,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100 meters,38.0,10.88,22.0,Black,Sapphire,None,46 hours,"8,500",Watches
-299,Hublot,Big Bang,Ceramic,Rubber,Automatic,100 meters,42.0,14.1,24.0,Black,Sapphire,"Date, Chronograph",42 hours,"12,000",Watches
-300,Zenith,Chronomaster,Stainless Steel,Leather,Automatic,100 meters,42.0,14.05,20.0,Silver,Sapphire,"Date, Chronograph",50 hours,"6,000",Watches
-301,Vacheron Constantin,Overseas,Stainless Steel,Rubber,Automatic,150 meters,41.0,11.0,22.0,Blue,Sapphire,Date,40 hours,"12,000",Watches
-302,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50 meters,41.0,10.4,20.0,Black,Sapphire,Date,60 hours,"22,000",Watches
-303,Hublot,Classic Fusion,Titanium,Rubber,Automatic,50 meters,42.0,10.5,22.0,Blue,Sapphire,Date,42 hours,"8,500",Watches
-304,Panerai,Luminor Marina,Stainless Steel,Leather,Manual,300 meters,44.0,15.65,24.0,Black,Sapphire,None,56 hours,"7,200",Watches
-305,Breguet,Classique,18K White Gold,Leather,Manual,30 meters,40.0,6.1,20.0,Silver,Sapphire,None,65 hours,"16,000",Watches
-307,Ulysse Nardin,Marine,Stainless Steel,Rubber,Automatic,100 meters,42.2,12.6,22.0,Blue,Sapphire,Date,60 hours,"8,900",Watches
-308,IWC,Portugieser Chronograph,Stainless Steel,Leather,Automatic,30 meters,41.0,13.1,20.0,White,Sapphire,Chronograph,46 hours,"7,600",Watches
-309,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120 meters,40.8,8.3,20.0,Blue,Sapphire,Date,45 hours,"57,000",Watches
-310,Montblanc,1858 Geosphere,Titanium,Leather,Automatic,100 meters,42.0,12.8,22.0,Black,Sapphire,GMT,42 hours,"6,500",Watches
-311,Vacheron Constantin,Overseas,Stainless Steel,Stainless Steel,Automatic,150 meters,41.5,11.0,22.0,Blue,Sapphire,Date,60 hours,"21,000",Watches
-312,Zenith,Chronomaster El Primero,Stainless Steel,Leather,Automatic,100 meters,38.0,12.45,20.0,Silver,Sapphire,Chronograph,50 hours,"6,000",Watches
-313,Rolex,Daytona,18k Yellow Gold,Leather,Automatic,100 meters,40.0,12.4,20.0,Champagne,Sapphire,Chronograph,72 hours,"29,500",Watches
-314,Audemars Piguet,Royal Oak,Rose Gold,Rose Gold,Automatic,50 meters,37.0,9.8,18.0,Blue,Sapphire,None,60 hours,"36,500",Watches
-315,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120 meters,40.5,8.3,22.0,Blue,Sapphire,Date,45 hours,"51,000",Watches
-316,IWC,Portuguese,Stainless Steel,Leather,Automatic,30 meters,42.3,14.2,22.0,White,Sapphire,Date,60 hours,"8,800",Watches
-317,Blancpain,Fifty Fathoms,Stainless Steel,Rubber,Automatic,300 meters,45.0,15.4,23.0,Black,Sapphire,Date,120 hours,"13,500",Watches
-318,Hublot,Big Bang,Carbon Fiber,Rubber,Automatic,100 meters,44.0,14.5,22.0,Black,Sapphire,Chronograph,72 hours,"19,500",Watches
-319,Ulysse Nardin,Marine,Stainless Steel,Rubber,Automatic,100 meters,43.0,12.6,22.0,Blue,Sapphire,Date,60 hours,"7,000",Watches
-320,Breguet,Classique,18k White Gold,Leather,Manual,30 meters,38.0,7.45,20.0,Silver,Sapphire,None,65 hours,"23,000",Watches
-321,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100 meters,42.0,10.88,25.0,Black,Sapphire,Date,46 hours,"9,500",Watches
-322,Piaget,Altiplano,18k White Gold,Leather,Manual,30 meters,40.0,6.36,20.0,Silver,Sapphire,None,43 hours,"18,500",Watches
-323,Vacheron Constantin,Patrimony,18k Rose Gold,Leather,Manual,30 meters,42.0,7.65,20.0,Silver,Sapphire,None,65 hours,"22,500",Watches
-324,Panerai,Luminor Marina,Stainless Steel,Leather,Automatic,300 meters,44.0,15.65,22.0,Black,Sapphire,"Date, GMT",72 hours,"7,500",Watches
-325,IWC,Portugieser,Stainless Steel,Leather,Automatic,30 meters,41.0,12.3,22.0,Blue,Sapphire,Date,60 hours,"6,500",Watches
-326,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50 meters,41.0,9.8,20.0,Blue,Sapphire,Date,60 hours,"20,000",Watches
-327,Hublot,Big Bang,Carbon Fiber,Rubber,Automatic,100 meters,44.0,14.5,26.0,Black,Sapphire,Chronograph,72 hours,"12,000",Watches
-328,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100 meters,42.0,10.88,22.0,Blue,Sapphire,Date,54 hours,"6,500",Watches
-329,Chopard,Mille Miglia,Stainless Steel,Leather,Automatic,50 meters,42.0,11.43,22.0,Black,Sapphire,Chronograph,48 hours,"6,200",Watches
-330,Vacheron Constantin,Overseas,Stainless Steel,Stainless Steel,Automatic,150 meters,41.0,11.0,22.0,Blue,Sapphire,Date,60 hours,"15,000",Watches
-331,Piaget,Altiplano,White Gold,Leather,Manual,30 meters,40.0,6.36,20.0,Silver,Sapphire,None,44 hours,"22,000",Watches
-332,Zenith,El Primero,Stainless Steel,Leather,Automatic,100 meters,42.0,12.75,22.0,Black,Sapphire,Chronograph,50 hours,"5,500",Watches
-333,Breguet,Classique,White Gold,Leather,Automatic,30 meters,39.0,10.2,22.0,Silver,Sapphire,None,45 hours,"19,000",Watches
-334,Tudor,Black Bay,Stainless Steel,Leather,Automatic,200 meters,41.0,12.7,22.0,Black,Sapphire,None,70 hours,"3,500",Watches
-335,Rolex,Datejust,Stainless Steel,Stainless Steel,Automatic,100 meters,36.0,12.5,20.0,Blue,Sapphire,"Date, Cyclops",70 hours,"7,400",Watches
-336,Omega,Speedmaster,Stainless Steel,Stainless Steel,Automatic,50 meters,42.0,14.3,20.0,Black,Hesalite,Chronograph,48 hours,"5,000",Watches
-337,Cartier,Santos,Stainless Steel,Stainless Steel,Automatic,100 meters,39.8,9.08,20.0,Silver,Sapphire,Date,42 hours,"6,200",Watches
-338,TAG Heuer,Aquaracer,Stainless Steel,Stainless Steel,Automatic,300 meters,43.0,12.5,21.0,Black,Sapphire,Date,38 hours,"3,100",Watches
-339,Breitling,Superocean,Stainless Steel,Rubber,Automatic,1000 meters,42.0,13.3,20.0,Blue,Sapphire,Date,38 hours,"4,100",Watches
-340,Panerai,Luminor Marina,Stainless Steel,Leather,Automatic,300 meters,44.0,13.05,24.0,Black,Sapphire,None,72 hours,"6,500",Watches
-341,Tudor,Black Bay,Stainless Steel,Leather,Automatic,200 meters,41.0,12.7,22.0,Black,Sapphire,Date,70 hours,"3,800",Watches
-342,Zenith,Elite Classic,Stainless Steel,Leather,Automatic,50 meters,39.0,8.15,20.0,Silver,Sapphire,Date,50 hours,"4,900",Watches
-343,Longines,Conquest Classic,Stainless Steel,Leather,Automatic,50 meters,40.0,10.75,20.0,Silver,Sapphire,Date,54 hours,"1,850",Watches
-344,Montblanc,Star Legacy,Stainless Steel,Leather,Automatic,50 meters,42.0,11.4,22.0,White,Sapphire,"Date, Moonphase",42 hours,"3,900",Watches
-345,Baume & Mercier,Clifton Baumatic,Stainless Steel,Leather,Automatic,50 meters,40.0,10.3,20.0,Silver,Sapphire,Date,120 hours,"2,750",Watches
-346,Rolex,Datejust,Stainless Steel,Jubilee Bracelet,Automatic,100 meters,41.0,11.8,20.0,Blue,Sapphire,Date,70 hours,"9,500",Watches
-347,Omega,Speedmaster Moonwatch,Stainless Steel,Stainless Steel,Manual,50 meters,42.0,13.75,20.0,Black,Hesalite,"Chronograph, Tachymeter",48 hours,"5,350",Watches
-348,Breitling,Superocean Heritage,Stainless Steel,Stainless Steel,Automatic,200 meters,44.0,14.2,22.0,Blue,Sapphire,Date,38 hours,"3,250",Watches
-350,Tag Heuer,Monaco,Stainless Steel,Leather,Automatic,100 meters,39.0,14.0,22.0,Blue,Sapphire,Chronograph,40 hours,"4,950",Watches
-351,Jaeger-LeCoultre,Master Control,Stainless Steel,Leather,Automatic,50 meters,40.0,8.5,20.0,Silver,Sapphire,"Date, Moonphase",70 hours,"6,500",Watches
-352,Panerai,Luminor,Titanium,Rubber,Manual,300 meters,44.0,15.6,24.0,Black,Sapphire,None,72 hours,"8,500",Watches
-353,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50 meters,41.0,10.4,20.0,Blue,Sapphire,Date,60 hours,"27,000",Watches
-354,IWC,Portugieser,Stainless Steel,Leather,Automatic,30 meters,40.4,12.3,20.0,Silver,Sapphire,Chronograph,46 hours,"7,250",Watches
-355,Patek Philippe,Calatrava,18K White Gold,Leather,Manual,30 meters,38.0,8.25,20.0,White,Sapphire,None,44 hours,"25,000",Watches
-356,Bell & Ross,BR 03-92,Ceramic,Rubber,Automatic,100 meters,42.0,9.8,24.0,Black,Sapphire,None,40 hours,"3,800",Watches
-357,Rolex,Datejust,Stainless Steel,Stainless Steel,Automatic,100 meters,36.0,12.5,20.0,Silver,Sapphire,"Date, Cyclops Lens",70 hours,"8,000",Watches
-358,Omega,Speedmaster,Stainless Steel,Stainless Steel,Manual,50 meters,42.0,14.3,20.0,Black,Hesalite,"Chronograph, Tachymeter",48 hours,"4,500",Watches
-359,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120 meters,40.8,8.3,20.0,Blue,Sapphire,Date,45 hours,"52,000",Watches
-360,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50 meters,41.0,10.4,20.0,Blue,Sapphire,Date,60 hours,"28,500",Watches
-361,IWC,Pilot's Watch Mark,Stainless Steel,Leather,Automatic,60 meters,41.0,12.5,20.0,Black,Sapphire,"Date, Chronograph",44 hours,"6,800",Watches
-362,Hublot,Big Bang,Ceramic,Rubber,Automatic,100 meters,42.0,14.1,24.0,Black,Sapphire,Chronograph,72 hours,"16,000",Watches
-363,Zenith,El Primero,Stainless Steel,Leather,Automatic,100 meters,42.0,12.75,20.0,Black,Sapphire,Chronograph,50 hours,"6,500",Watches
-364,Breguet,Classique,18K White Gold,Leather,Automatic,30 meters,39.0,8.65,20.0,Silver,Sapphire,None,40 hours,"19,000",Watches
-365,Blancpain,Fifty Fathoms,Stainless Steel,Rubber,Automatic,300 meters,45.0,15.5,23.0,Black,Sapphire,Date,120 hours,"13,500",Watches
-366,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100 meters,42.0,10.88,25.0,Black,Sapphire,Date,46 hours,"8,000",Watches
-367,Jaquet Droz,Grande Seconde,Stainless Steel,Leather,Automatic,30 meters,43.0,12.48,23.0,Silver,Sapphire,None,68 hours,"10,000",Watches
-368,Rolex,GMT-Master II,Stainless Steel,Stainless Steel,Automatic,100 meters,40.0,12.5,20.0,Black,Sapphire,"Date, GMT",70 hours,"9,700",Watches
-369,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120 meters,40.5,8.3,21.0,Blue,Sapphire,Date,45 hours,"29,800",Watches
-370,Omega,Speedmaster,Stainless Steel,Stainless Steel,Manual,50 meters,42.0,14.3,20.0,Black,Hesalite,Chronograph,48 hours,"5,350",Watches
-371,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50 meters,41.0,9.8,20.0,Blue,Sapphire,Date,60 hours,"18,500",Watches
-372,IWC,Pilot's Watch,Stainless Steel,Leather,Automatic,60 meters,43.0,15.0,22.0,Black,Sapphire,Date,72 hours,"4,950",Watches
-373,Zenith,El Primero,Stainless Steel,Leather,Automatic,100 meters,42.0,12.75,20.0,White,Sapphire,"Chronograph, Date",50 hours,"7,900",Watches
-375,Hublot,Big Bang,Titanium,Rubber,Automatic,100 meters,44.0,14.5,24.0,Black,Sapphire,"Chronograph, Date",72 hours,"16,000",Watches
-376,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100 meters,42.0,10.88,22.0,Blue,Sapphire,Date,54 hours,"12,800",Watches
-377,Jaeger-LeCoultre,Master Control,Stainless Steel,Leather,Automatic,50 meters,40.0,8.78,20.0,Silver,Sapphire,"Date, Power Reserve Indicator",70 hours,"8,500",Watches
-378,IWC,Portugieser,Stainless Steel,Leather,Automatic,30 meters,41.0,12.3,22.0,Blue,Sapphire,"Date, Power Reserve Indicator",42 hours,"8,500",Watches
-379,Panerai,Luminor,Titanium,Rubber,Automatic,300 meters,44.0,13.05,24.0,Black,Sapphire,"Date, Sub Seconds",72 hours,"7,500",Watches
-380,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120 meters,40.5,8.3,20.0,Blue,Sapphire,Date,45 hours,"39,000",Watches
-381,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50 meters,37.0,9.8,20.0,Blue,Sapphire,Date,40 hours,"19,500",Watches
-382,Hublot,Big Bang,Titanium,Rubber,Automatic,100 meters,44.0,14.5,24.0,Black,Sapphire,"Date, Chronograph",72 hours,"13,000",Watches
-383,Zenith,El Primero,Stainless Steel,Leather,Automatic,100 meters,42.0,12.75,20.0,White,Sapphire,"Date, Chronograph, Moon Phase",50 hours,"7,500",Watches
-384,Vacheron Constantin,Overseas,Stainless Steel,Stainless Steel,Automatic,150 meters,41.0,11.0,22.0,Blue,Sapphire,"Date, World Time",60 hours,"23,000",Watches
-385,Breguet,Classique,18K White Gold,Leather,Manual,30 meters,40.0,6.95,20.0,Silver,Sapphire,None,50 hours,"24,000",Watches
-386,Blancpain,Fifty Fathoms,Stainless Steel,Fabric,Automatic,300 meters,45.0,15.5,23.0,Black,Sapphire,"Date, Power Reserve Indicator",120 hours,"11,000",Watches
-387,Chopard,Mille Miglia,Stainless Steel,Leather,Automatic,50 meters,44.0,14.45,22.0,Black,Sapphire,"Date, Chronograph",42 hours,"6,000",Watches
-388,Rolex,Datejust,Stainless Steel,Stainless Steel,Automatic,100 meters,36.0,12.0,20.0,Silver,Sapphire,Date,70 hours,"7,500",Watches
-389,Omega,Speedmaster,Stainless Steel,Stainless Steel,Automatic,50 meters,42.0,13.7,20.0,Black,Sapphire,"Chronograph, Tachymeter",60 hours,"6,500",Watches
-390,Tag Heuer,Aquaracer,Stainless Steel,Stainless Steel,Automatic,300 meters,43.0,13.0,21.0,Blue,Sapphire,Date,38 hours,"3,700",Watches
-391,Breitling,Superocean,Stainless Steel,Rubber,Automatic,200 meters,44.0,14.2,22.0,Black,Sapphire,Date,42 hours,"4,500",Watches
-392,Cartier,Ballon Bleu,Stainless Steel,Stainless Steel,Automatic,30 meters,42.0,13.0,22.0,Silver,Sapphire,Date,42 hours,"7,500",Watches
-393,Jaeger-LeCoultre,Master Control,Stainless Steel,Leather,Automatic,50 meters,40.0,8.8,20.0,Silver,Sapphire,"Date, Power Reserve",70 hours,"6,000",Watches
-394,Rolex,GMT-Master II,Stainless Steel,Stainless Steel,Automatic,100 meters,40.0,12.5,20.0,Black,Sapphire,Dual Time Zone,70 hours,"9,500",Watches
-395,Omega,Constellation,Stainless Steel,Stainless Steel,Automatic,100 meters,39.0,10.6,20.0,Black,Sapphire,Date,50 hours,"4,800",Watches
-396,Tag Heuer,Monaco,Stainless Steel,Leather,Automatic,100 meters,39.0,14.5,22.0,Blue,Sapphire,Chronograph,40 hours,"5,200",Watches
-397,Breitling,Chronomat,Stainless Steel,Stainless Steel,Automatic,200 meters,44.0,16.95,22.0,Blue,Sapphire,"Chronograph, Date",70 hours,"6,900",Watches
-398,Cartier,Santos,Stainless Steel,Stainless Steel,Automatic,100 meters,35.1,8.83,18.0,Silver,Sapphire,Date,42 hours,"5,500",Watches
-399,Rolex,Datejust,Stainless Steel,Stainless Steel,Automatic,100 meters,41.0,11.7,20.0,White,Sapphire,Date,70 hours,"8,000",Watches
-400,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120 meters,40.5,8.3,21.0,Blue,Sapphire,Date,45 hours,"40,000",Watches
-401,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50 meters,37.0,9.0,16.0,Blue,Sapphire,Date,60 hours,"18,000",Watches
-402,IWC,Portugieser,Stainless Steel,Leather,Automatic,30 meters,40.4,12.3,22.0,White,Sapphire,Date,60 hours,"7,500",Watches
-403,Hublot,Big Bang,Titanium,Rubber,Automatic,100 meters,44.0,14.5,25.0,Black,Sapphire,Chronograph,72 hours,"14,000",Watches
-404,Blancpain,Fifty Fathoms,Stainless Steel,Canvas,Automatic,300 meters,45.0,15.4,23.0,Black,Sapphire,Date,120 hours,"14,000",Watches
-405,Breguet,Classique,Rose Gold,Leather,Manual,30 meters,40.0,6.8,20.0,Silver,Sapphire,None,55 hours,"25,000",Watches
-406,Jaeger-LeCoultre,Master Ultra Thin,Stainless Steel,Leather,Automatic,50 meters,39.0,7.8,20.0,Silver,Sapphire,None,70 hours,"6,500",Watches
-407,Zenith,El Primero,Stainless Steel,Stainless Steel,Automatic,100 meters,42.0,12.75,20.0,Blue,Sapphire,Chronograph,50 hours,"7,000",Watches
-408,Bulgari,Octo Finissimo,Titanium,Titanium,Automatic,30 meters,40.0,5.15,28.0,Black,Sapphire,None,55 hours,"10,000",Watches
-409,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100 meters,42.0,10.88,22.0,Blue,Sapphire,Date,54 hours,"9,000",Watches
-410,Rolex,GMT-Master II,Stainless Steel,Stainless Steel,Automatic,100 meters,40.0,12.1,20.0,Black,Sapphire,"GMT, Date",70 hours,"9,450",Watches
-411,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120 meters,40.8,8.3,21.0,Blue,Sapphire,Date,55 hours,"29,800",Watches
-412,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50 meters,41.0,9.8,20.0,Blue,Sapphire,"Date, Chronograph",50 hours,"22,300",Watches
-413,Hublot,Classic Fusion,Titanium,Rubber,Automatic,50 meters,42.0,10.6,22.0,Black,Sapphire,Date,42 hours,"8,100",Watches
-414,IWC,Pilot's Watch Mark XVIII,Stainless Steel,Leather,Automatic,60 meters,40.0,10.8,20.0,Black,Sapphire,Date,42 hours,"3,900",Watches
-415,A. Lange & Söhne,Saxonia,Rose Gold,Leather,Manual,30 meters,38.5,7.8,18.0,Silver,Sapphire,None,72 hours,"23,300",Watches
-416,Breguet,Classique,Rose Gold,Leather,Automatic,30 meters,39.0,8.65,20.0,Silver,Sapphire,Date,65 hours,"23,200",Watches
-417,Chopard,Mille Miglia,Stainless Steel,Leather,Automatic,50 meters,44.0,14.4,22.0,Black,Sapphire,"Date, Chronograph, Tachymeter",42 hours,"6,300",Watches
-418,Zenith,El Primero,Stainless Steel,Leather,Automatic,100 meters,38.0,12.45,20.0,White,Sapphire,"Date, Chronograph",50 hours,"5,600",Watches
-419,Panerai,Luminor,Titanium,Leather,Manual,100 meters,44.0,13.05,24.0,Black,Sapphire,None,56 hours,"6,900",Watches
-420,Rolex,Daytona,Stainless Steel,Stainless Steel,Automatic,100 meters,40.0,12.4,20.0,White,Sapphire,Chronograph,72 hours,"13,500",Watches
-421,Omega,Speedmaster,Stainless Steel,Stainless Steel,Manual,50 meters,42.0,14.3,20.0,Black,Hesalite,Chronograph,48 hours,"4,500",Watches
-422,Cartier,Santos,Stainless Steel,Leather,Automatic,100 meters,39.8,9.08,20.0,Silver,Sapphire,Date,42 hours,"6,600",Watches
-423,Breitling,Superocean Heritage,Stainless Steel,Leather,Automatic,200 meters,42.0,14.35,20.0,Black,Sapphire,Date,38 hours,"4,400",Watches
-424,Tag Heuer,Aquaracer,Stainless Steel,Stainless Steel,Automatic,300 meters,41.0,12.0,20.0,Blue,Sapphire,Date,38 hours,"2,800",Watches
-425,Jaeger-LeCoultre,Master Ultra Thin,Stainless Steel,Leather,Automatic,50 meters,40.0,7.45,20.0,Silver,Sapphire,None,43 hours,"6,300",Watches
-426,Patek Philippe,Calatrava,18k Rose Gold,Leather,Manual,30 meters,38.0,7.68,19.0,White,Sapphire,None,44 hours,"22,900",Watches
-427,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50 meters,41.0,9.8,20.0,Black,Sapphire,Date,60 hours,"22,500",Watches
-428,Zenith,El Primero,Stainless Steel,Stainless Steel,Automatic,100 meters,42.0,12.75,20.0,Blue,Sapphire,Chronograph,50 hours,"6,900",Watches
-429,Vacheron Constantin,Overseas,Stainless Steel,Stainless Steel,Automatic,150 meters,41.0,11.0,20.0,Black,Sapphire,"Date, World Time",60 hours,"20,200",Watches
-430,IWC,Portugieser,Stainless Steel,Leather,Automatic,30 meters,40.4,12.6,20.0,Silver,Sapphire,None,44 hours,"7,600",Watches
-431,Panerai,Luminor Marina,Stainless Steel,Leather,Automatic,300 meters,44.0,15.65,24.0,Black,Sapphire,Date,72 hours,"6,500",Watches
-432,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120 meters,40.5,8.3,21.0,Blue,Sapphire,Date,45 hours,"34,000",Watches
-433,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50 meters,41.0,9.8,20.0,Black,Sapphire,Date,60 hours,"22,000",Watches
-434,IWC,Portugieser,Stainless Steel,Leather,Automatic,30 meters,41.0,12.3,22.0,White,Sapphire,Date,168 hours,"9,500",Watches
-435,Hublot,Big Bang,Ceramic,Rubber,Automatic,100 meters,41.0,14.6,20.0,Black,Sapphire,Chronograph,42 hours,"14,000",Watches
-436,Breguet,Classique,18k Rose Gold,Leather,Manual,30 meters,39.0,10.2,22.0,Silver,Sapphire,None,40 hours,"26,000",Watches
-437,Zenith,El Primero,Stainless Steel,Leather,Automatic,100 meters,38.0,12.5,20.0,Silver,Sapphire,Chronograph,50 hours,"7,000",Watches
-438,Blancpain,Fifty Fathoms,Stainless Steel,NATO strap,Automatic,300 meters,45.0,15.4,23.0,Black,Sapphire,None,120 hours,"10,000",Watches
-439,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100 meters,42.0,10.88,22.0,Blue,Sapphire,Date,54 hours,"11,500",Watches
-440,Ulysse Nardin,Marine,Stainless Steel,Leather,Automatic,100 meters,42.2,12.6,20.0,Blue,Sapphire,Date,60 hours,"7,500",Watches
-441,Vacheron Constantin,Overseas,Stainless Steel,Stainless Steel,Automatic,150 meters,41.5,11.0,22.0,Silver,Sapphire,Date,60 hours,"20,000",Watches
-442,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120 meters,40.0,8.3,20.0,Blue,Sapphire,Date,45 hours,"26,000",Watches
-443,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50 meters,41.0,10.4,20.0,Grey,Sapphire,Date,60 hours,"17,000",Watches
-444,IWC,Portugieser,Stainless Steel,Leather,Automatic,30 meters,42.3,14.2,22.0,White,Sapphire,Chronograph,46 hours,"7,800",Watches
-445,A. Lange & Söhne,Saxonia,18k Rose Gold,Leather,Manual,30 meters,37.0,7.5,18.0,Silver,Sapphire,None,45 hours,"17,500",Watches
-446,Vacheron Constantin,Overseas,Stainless Steel,Rubber,Automatic,150 meters,42.5,13.7,22.0,Blue,Sapphire,Date,40 hours,"20,000",Watches
-447,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100 meters,41.0,10.88,26.0,Black,Sapphire,Chronograph,46 hours,"12,000",Watches
-448,Zenith,El Primero,Stainless Steel,Leather,Automatic,100 meters,42.0,12.75,22.0,Silver,Sapphire,Chronograph,50 hours,"7,500",Watches
-449,Blancpain,Fifty Fathoms,Stainless Steel,Rubber,Automatic,300 meters,45.0,15.5,23.0,Black,Sapphire,Date,120 hours,"14,000",Watches
-450,Hublot,Classic Fusion,Titanium,Rubber,Automatic,50 meters,45.0,10.95,22.0,Blue,Sapphire,None,42 hours,"9,500",Watches
-451,Breguet,Classique,18k White Gold,Leather,Manual,30 meters,38.0,8.25,20.0,Silver,Sapphire,None,40 hours,"22,000",Watches
-452,Piaget,Polo,Stainless Steel,Stainless Steel,Automatic,100 meters,42.0,9.4,22.0,Blue,Sapphire,Date,44 hours,"10,500",Watches
-453,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120 meters,40.5,8.3,22.0,Blue,Sapphire,Date,45 hours,"29,000",Watches
-454,Audemars Piguet,Royal Oak,Rose Gold,Leather,Automatic,50 meters,37.0,9.8,20.0,Black,Sapphire,Date,60 hours,"38,500",Watches
-455,Hublot,Classic Fusion,Titanium,Rubber,Automatic,50 meters,42.0,9.85,22.0,Blue,Sapphire,None,42 hours,"7,500",Watches
-456,Breguet,Classique,Rose Gold,Leather,Automatic,30 meters,39.0,10.2,20.0,Silver,Sapphire,None,65 hours,"25,000",Watches
-457,IWC,Pilot's Watch,Stainless Steel,Leather,Automatic,60 meters,41.0,15.3,20.0,Black,Sapphire,Date,42 hours,"5,900",Watches
-458,Blancpain,Fifty Fathoms,Stainless Steel,NATO Strap,Automatic,300 meters,45.0,15.5,23.0,Black,Sapphire,Date,120 hours,"12,000",Watches
-459,Zenith,El Primero,Stainless Steel,Leather,Automatic,100 meters,38.0,12.45,20.0,Silver,Sapphire,Chronograph,50 hours,"6,200",Watches
-460,Chopard,Mille Miglia,Stainless Steel,Rubber,Automatic,50 meters,42.0,13.07,20.0,Black,Sapphire,Chronograph,48 hours,"6,800",Watches
-461,Vacheron Constantin,Patrimony,White Gold,Leather,Manual,30 meters,40.0,6.79,20.0,Silver,Sapphire,None,65 hours,"28,000",Watches
-462,Panerai,Luminor,Titanium,Leather,Automatic,300 meters,44.0,16.15,24.0,Black,Sapphire,None,72 hours,"9,500",Watches
-463,Tudor,Black Bay,Stainless Steel,NATO Strap,Automatic,200 meters,41.0,11.9,22.0,Black,Sapphire,None,70 hours,"3,500",Watches
-464,Panerai,Luminor Marina,Stainless Steel,Leather,Automatic,300 meters,42.0,14.5,22.0,Black,Sapphire,Date,50 hours,"7,200",Watches
-465,IWC,Portugieser,Stainless Steel,Leather,Automatic,30 meters,41.0,12.3,22.0,Blue,Sapphire,None,60 hours,"7,900",Watches
-466,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120 meters,40.0,8.3,22.0,Blue,Sapphire,Date,45 hours,"36,000",Watches
-467,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50 meters,41.0,10.4,20.0,Blue,Sapphire,Date,60 hours,"28,500",Watches
-468,Blancpain,Fifty Fathoms,Stainless Steel,Canvas,Automatic,300 meters,45.0,15.4,23.0,Black,Sapphire,Date,120 hours,"15,000",Watches
-469,Breguet,Classique,18K Yellow Gold,Leather,Automatic,30 meters,39.0,10.2,20.0,Silver,Sapphire,Date,38 hours,"26,000",Watches
-470,Zenith,Chronomaster,Stainless Steel,Leather,Automatic,50 meters,42.0,13.5,22.0,Blue,Sapphire,Chronograph,50 hours,"6,500",Watches
-471,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100 meters,38.0,10.88,20.0,Blue,Sapphire,Date,54 hours,"12,000",Watches
-472,Hublot,Big Bang,Titanium,Rubber,Automatic,100 meters,44.0,14.5,24.0,Black,Sapphire,Chronograph,72 hours,"18,500",Watches
-473,Jaquet Droz,Grande Seconde,Stainless Steel,Leather,Automatic,30 meters,43.0,11.48,23.0,Black,Sapphire,None,68 hours,"9,500",Watches
-474,Montblanc,Star Legacy,Stainless Steel,Leather,Automatic,50 meters,39.0,9.9,19.0,Silver,Sapphire,Date,42 hours,"3,500",Watches
-475,Rolex,GMT-Master II,Stainless Steel,Stainless Steel,Automatic,100 meters,40.0,12.5,20.0,Black,Sapphire,"GMT, Date",70 hours,"9,900",Watches
-476,Omega,Speedmaster,Stainless Steel,Stainless Steel,Manual,50 meters,42.0,14.3,20.0,Black,Hesalite,Chronograph,48 hours,"4,300",Watches
-477,IWC,Portugieser,Stainless Steel,Leather,Automatic,30 meters,40.4,12.3,20.0,White,Sapphire,None,60 hours,"7,500",Watches
-478,Hublot,Big Bang,Ceramic,Rubber,Automatic,100 meters,44.0,14.5,24.0,Black,Sapphire,Chronograph,72 hours,"15,500",Watches
-479,Panerai,Luminor Marina,Stainless Steel,Leather,Manual,300 meters,44.0,13.05,24.0,Black,Sapphire,None,56 hours,"5,200",Watches
-480,Patek Philippe,Calatrava,White Gold,Leather,Automatic,30 meters,37.0,8.5,18.0,White,Sapphire,Date,45 hours,"25,000",Watches
-481,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50 meters,41.0,10.4,20.0,Blue,Sapphire,Date,60 hours,"19,500",Watches
-482,Vacheron Constantin,Patrimony,Rose Gold,Leather,Automatic,30 meters,40.0,6.79,20.0,White,Sapphire,None,40 hours,"15,000",Watches
-483,Blancpain,Fifty Fathoms,Titanium,Fabric,Automatic,300 meters,45.0,15.4,23.0,Black,Sapphire,None,120 hours,"14,000",Watches
-484,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100 meters,42.0,10.88,25.0,Blue,Sapphire,None,54 hours,"7,500",Watches
-485,Jaquet Droz,Grande Seconde,Stainless Steel,Leather,Automatic,30 meters,43.0,11.48,22.0,White,Sapphire,None,68 hours,"8,500",Watches
-486,Rolex,Datejust,Stainless Steel,Jubilee Bracelet,Automatic,100 meters,36.0,12.0,20.0,Blue,Sapphire,Date,70 hours,"7,650",Watches
-487,Omega,Speedmaster,Stainless Steel,Stainless Steel,Manual,50 meters,42.0,14.3,20.0,Black,Hesalite,Chronograph,48 hours,"5,200",Watches
-488,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120 meters,40.5,8.3,20.0,Blue,Sapphire,"Date, Chronograph",55 hours,"67,000",Watches
-489,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50 meters,41.0,9.8,20.0,Blue,Sapphire,"Date, Power Reserve",60 hours,"25,000",Watches
-490,Cartier,Ballon Bleu,Stainless Steel,Stainless Steel,Automatic,30 meters,36.6,12.05,18.0,Silver,Sapphire,Date,42 hours,"4,700",Watches
-491,IWC,Portugieser,Stainless Steel,Leather,Automatic,30 meters,42.3,14.2,22.0,Blue,Sapphire,None,60 hours,"9,100",Watches
-492,Jaeger-LeCoultre,Master Control,Stainless Steel,Leather,Automatic,50 meters,39.0,8.5,20.0,Silver,Sapphire,"Date, Moonphase",70 hours,"8,200",Watches
-493,Blancpain,Fifty Fathoms,Stainless Steel,Canvas,Automatic,300 meters,45.0,15.5,23.0,Black,Sapphire,Date,120 hours,"12,500",Watches
-494,Breguet,Classique,18K Rose Gold,Leather,Automatic,30 meters,39.0,9.9,22.0,White,Sapphire,"Date, Moonphase",65 hours,"27,900",Watches
-495,Chopard,Mille Miglia,Stainless Steel,Rubber,Automatic,50 meters,42.0,12.67,20.0,Black,Sapphire,"Chronograph, Date",42 hours,"6,500",Watches
-496,Seiko,Prospex,Stainless Steel,Silicone,Automatic,200 meters,44.3,13.1,22.0,Black,Hardlex,"Date, GMT",50 hours,"1,200",Watches
-497,Tudor,Black Bay,Stainless Steel,Leather,Automatic,200 meters,41.0,14.75,22.0,Black,Sapphire,None,70 hours,"3,800",Watches
-498,IWC,Pilot's Watch,Stainless Steel,Leather,Automatic,60 meters,39.0,10.86,20.0,Black,Sapphire,Date,42 hours,"4,500",Watches
-499,Panerai,Luminor Marina,Titanium,Rubber,Automatic,300 meters,44.0,15.65,24.0,Black,Sapphire,None,72 hours,"9,500",Watches
-500,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120 meters,40.5,8.3,20.0,Blue,Sapphire,Date,45 hours,"35,000",Watches
-501,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50 meters,41.0,10.4,20.0,Black,Sapphire,Date,60 hours,"24,000",Watches
-502,Breguet,Classique,18k Rose Gold,Leather,Automatic,30 meters,38.5,8.25,20.0,White,Sapphire,Date,38 hours,"21,500",Watches
-503,Blancpain,Fifty Fathoms,Stainless Steel,Fabric,Automatic,300 meters,45.0,15.5,23.0,Black,Sapphire,Date,120 hours,"13,500",Watches
-504,Longines,Master Collection,Stainless Steel,Leather,Automatic,30 meters,38.5,9.7,20.0,Blue,Sapphire,Date,64 hours,"1,800",Watches
-505,Vacheron Constantin,Overseas,Stainless Steel,Stainless Steel,Automatic,150 meters,41.5,11.0,22.0,Blue,Sapphire,Date,40 hours,"19,000",Watches
-506,Frederique Constant,Classics,Stainless Steel,Leather,Automatic,50 meters,40.0,10.6,20.0,Silver,Sapphire,Date,38 hours,"1,200",Watches
+;Brand;Model;Case Material;Strap Material;Movement Type;Water Resistance;Case Diameter (mm);Case Thickness (mm);Band Width (mm);Dial Color;Crystal Material;Complications;Power Reserve;Price (USD);category
+0;Rolex;Submariner;Stainless Steel;Stainless Steel;Automatic;300 meters;40.0;13.0;20.0;Black;Sapphire;Date;48 hours;9,500;Watches
+1;Omega;Seamaster;Titanium;Rubber;Automatic;600 meters;43.5;14.47;21.0;Blue;Sapphire;Date;60 hours;5,800;Watches
+2;Tag Heuer;Carrera;Stainless Steel;Leather;Automatic;100 meters;41.0;13.0;20.0;White;Sapphire;Chronograph;42 hours;4,200;Watches
+3;Breitling;Navitimer;Stainless Steel;Stainless Steel;Automatic;30 meters;43.0;14.25;22.0;Black;Sapphire;Chronograph;70 hours;7,900;Watches
+5;Jaeger-LeCoultre;Reverso;Stainless Steel;Leather;Manual;30 meters;42.9;9.2;20.0;Black;Sapphire;None;45 hours;5,500;Watches
+6;Seiko;Prospex;Stainless Steel;Rubber;Automatic;200 meters;44.3;12.9;20.0;Black;Sapphire;Date;50 hours;1,400;Watches
+7;Citizen;Promaster;Stainless Steel;Stainless Steel;Eco-Drive;200 meters;42.0;13.0;22.0;Black;Mineral;Chronograph;270 days;1,200;Watches
+8;Tissot;Le Locle;Stainless Steel;Leather;Automatic;30 meters;39.3;9.75;19.0;White;Sapphire;Date;38 hours;650;Watches
+9;Hamilton;Khaki Field;Stainless Steel;Leather;Automatic;100 meters;38.0;9.8;20.0;Black;Sapphire;None;80 hours;495;Watches
+10;Longines;Master Collection;Stainless Steel;Leather;Automatic;30 meters;38.5;9.7;20.0;Silver;Sapphire;Date;64 hours;1,150;Watches
+11;Oris;Big Crown ProPilot;Stainless Steel;Textile;Automatic;100 meters;41.0;12.0;20.0;Black;Sapphire;Date, GMT;38 hours;1,800;Watches
+12;Bell & Ross;Aviation;Stainless Steel;Rubber;Automatic;100 meters;42.0;11.5;24.0;Black;Sapphire;Chronograph;42 hours;4,500;Watches
+13;Sinn;104;Stainless Steel;Leather;Automatic;200 meters;41.0;11.5;20.0;Black;Sapphire;Date;42 hours;1,400;Watches
+14;Breguet;Classique;18k White Gold;Leather;Manual;30 meters;38.0;8.65;20.0;Silver;Sapphire;None;40 hours;16,000;Watches
+15;Audemars Piguet;Royal Oak;Stainless Steel;Stainless Steel;Automatic;50 meters;41.0;9.8;20.0;Silver;Sapphire;Date;60 hours;22,000;Watches
+16;Vacheron Constantin;Overseas;Stainless Steel;Rubber;Automatic;150 meters;41.0;11.0;22.0;Blue;Sapphire;Date;40 hours;19,000;Watches
+17;Omega;Speedmaster;Stainless Steel;Stainless Steel;Automatic;50 meters;42.0;14.5;20.0;Black;Sapphire;Chronograph, Tachymeter;60 hours;4,500;Watches
+18;Breitling;Superocean;Stainless Steel;Rubber;Automatic;500 meters;42.0;13.3;20.0;Blue;Sapphire;Date;38 hours;3,200;Watches
+19;Panerai;Luminor Base Logo;Stainless Steel;Leather;Manual;100 meters;44.0;10.5;22.0;Black;Sapphire;None;56 hours;3,900;Watches
+20;Tudor;Black Bay;Stainless Steel;Leather;Automatic;200 meters;41.0;11.9;22.0;Black;Sapphire;None;70 hours;3,500;Watches
+21;Rolex;GMT-Master II;Stainless Steel;Stainless Steel;Automatic;100 meters;40.0;12.5;20.0;Black;Sapphire;GMT;48 hours;14,000;Watches
+22;IWC;Pilot's Watch;Stainless Steel;Leather;Automatic;60 meters;41.0;12.5;20.0;Black;Sapphire;Date;42 hours;4,800;Watches
+23;Jaeger-LeCoultre;Master Ultra Thin;Stainless Steel;Leather;Automatic;50 meters;39.0;7.58;20.0;Silver;Sapphire;None;70 hours;7,500;Watches
+25;Montblanc;1858 Geosphere;Stainless Steel;Leather;Automatic;100 meters;42.0;11.2;22.0;Black;Sapphire;World Time, GMT;42 hours;6,200;Watches
+27;Audemars Piguet;Royal Oak;Stainless Steel;Stainless Steel;Automatic;50 meters;41.0;10.4;20.0;Black;Sapphire;Date;60 hours;21,000;Watches
+28;Rolex;Datejust;Stainless Steel;Jubilee;Automatic;100 meters;36.0;12.0;20.0;Silver;Sapphire;Date;70 hours;9,000;Watches
+29;Omega;Speedmaster Moonwatch;Stainless Steel;Stainless Steel;Manual;50 meters;42.0;14.3;20.0;Black;Hesalite;Chronograph, Tachymeter;48 hours;5,250;Watches
+30;IWC;Portugieser;Stainless Steel;Alligator;Automatic;30 meters;40.4;12.3;20.0;Silver;Sapphire;Date;60 hours;8,800;Watches
+31;Audemars Piguet;Royal Oak;Stainless Steel;Stainless Steel;Automatic;50 meters;41.0;10.4;20.0;Black;Sapphire;Date;60 hours;17,800;Watches
+32;Blancpain;Fifty Fathoms;Stainless Steel;Canvas;Automatic;300 meters;45.0;15.4;23.0;Black;Sapphire;Date;120 hours;11,500;Watches
+33;Zenith;El Primero;Stainless Steel;Alligator;Automatic;100 meters;42.0;12.75;20.0;Silver;Sapphire;Chronograph;50 hours;6,500;Watches
+34;Breguet;Classique;18K Rose Gold;Leather;Automatic;30 meters;39.0;8.65;20.0;Silver;Sapphire;None;45 hours;23,500;Watches
+35;Piaget;Polo S;Stainless Steel;Stainless Steel;Automatic;100 meters;42.0;9.4;24.0;Blue;Sapphire;Date;50 hours;10,000;Watches
+36;Ulysse Nardin;Marine;Stainless Steel;Rubber;Automatic;100 meters;44.0;12.5;22.0;Blue;Sapphire;Date;60 hours;9,500;Watches
+37;Vacheron Constantin;Overseas;Stainless Steel;Stainless Steel;Automatic;150 meters;41.0;11.0;20.0;Silver;Sapphire;Date;60 hours;21,500;Watches
+38;Jaquet Droz;Grande Seconde;Stainless Steel;Leather;Automatic;30 meters;43.0;12.27;23.0;Black;Sapphire;None;68 hours;9,800;Watches
+39;Audemars Piguet;Royal Oak;Stainless Steel;Stainless Steel;Automatic;50 meters;41.0;10.4;20.0;Blue;Sapphire;Date;60 hours;19,900;Watches
+40;Blancpain;Fifty Fathoms;Stainless Steel;Canvas;Automatic;300 meters;45.0;15.5;22.0;Black;Sapphire;Date;120 hours;14,400;Watches
+41;Breguet;Type XXI;Stainless Steel;Leather;Automatic;100 meters;42.0;13.85;22.0;Silver;Sapphire;Chronograph;48 hours;9,500;Watches
+42;Bulgari;Octo Finissimo;Titanium;Leather;Automatic;100 meters;40.0;5.15;28.0;Black;Sapphire;None;60 hours;12,800;Watches
+43;Chopard;Mille Miglia;Stainless Steel;Leather;Automatic;50 meters;44.0;13.7;20.0;Black;Sapphire;Chronograph;42 hours;6,500;Watches
+44;Girard-Perregaux;Laureato;Stainless Steel;Stainless Steel;Automatic;100 meters;42.0;10.88;20.0;Blue;Sapphire;None;54 hours;7,800;Watches
+45;Glashütte Original;Senator;Stainless Steel;Leather;Automatic;50 meters;42.0;12.2;21.0;Silver;Sapphire;None;40 hours;9,200;Watches
+46;Hublot;Classic Fusion;Titanium;Rubber;Automatic;50 meters;42.0;9.3;20.0;Black;Sapphire;None;42 hours;6,500;Watches
+47;IWC;Portugieser;Stainless Steel;Leather;Automatic;30 meters;41.0;12.3;22.0;Silver;Sapphire;None;60 hours;8,400;Watches
+48;Jaquet Droz;Grande Seconde;Stainless Steel;Leather;Automatic;30 meters;43.0;12.13;23.0;Silver;Sapphire;None;68 hours;6,200;Watches
+49;Longines;Master Collection;Stainless Steel;Leather;Automatic;30 meters;38.5;9.3;20.0;Blue;Sapphire;Date;42 hours;1,600;Watches
+50;Patek Philippe;Nautilus;Stainless Steel;Stainless Steel;Automatic;120 meters;40.5;8.3;20.0;Blue;Sapphire;Date;45 hours;29,800;Watches
+51;Audemars Piguet;Royal Oak;Stainless Steel;Stainless Steel;Automatic;50 meters;41.0;9.8;20.0;Blue;Sapphire;Date;60 hours;24,500;Watches
+52;IWC;Portugieser;Stainless Steel;Leather;Automatic;30 meters;41.0;12.3;22.0;Silver;Sapphire;None;60 hours;7,950;Watches
+53;Hublot;Classic Fusion;Titanium;Rubber;Automatic;50 meters;42.0;10.5;22.0;Black;Sapphire;None;42 hours;8,200;Watches
+54;Blancpain;Fifty Fathoms;Stainless Steel;Canvas;Automatic;300 meters;45.0;15.4;23.0;Black;Sapphire;Date;120 hours;11,500;Watches
+55;Zenith;Chronomaster;Stainless Steel;Leather;Automatic;100 meters;42.0;13.1;22.0;Silver;Sapphire;Chronograph;50 hours;9,400;Watches
+56;Girard-Perregaux;Laureato;Stainless Steel;Stainless Steel;Automatic;100 meters;38.0;10.88;25.0;Blue;Sapphire;None;54 hours;6,700;Watches
+57;Chopard;Mille Miglia;Stainless Steel;Leather;Automatic;50 meters;42.0;11.43;20.0;Black;Sapphire;Chronograph;42 hours;6,100;Watches
+58;Vacheron Constantin;Overseas;Stainless Steel;Stainless Steel;Automatic;150 meters;41.0;11.0;22.0;Blue;Sapphire;Date;60 hours;16,300;Watches
+59;Montblanc;1858;Stainless Steel;Leather;Automatic;100 meters;42.0;12.8;22.0;Black;Sapphire;None;38 hours;3,600;Watches
+60;Ulysse Nardin;Marine;Stainless Steel;Rubber;Automatic;300 meters;44.0;12.5;22.0;Black;Sapphire;Date;60 hours;9,500;Watches
+61;Rolex;Datejust;Stainless Steel;Stainless Steel;Automatic;100 meters;41.0;11.2;20.0;Silver;Sapphire;Date;70 hours;8,900;Watches
+62;Patek Philippe;Nautilus;Stainless Steel;Stainless Steel;Automatic;120 meters;40.8;8.3;20.0;Blue;Sapphire;Date, Moon Phase;48 hours;44,500;Watches
+63;Audemars Piguet;Royal Oak;Stainless Steel;Stainless Steel;Automatic;50 meters;41.0;10.4;20.0;Blue;Sapphire;Date;60 hours;17,000;Watches
+64;Tudor;Black Bay;Stainless Steel;Fabric;Automatic;200 meters;41.0;12.7;22.0;Black;Sapphire;None;70 hours;4,500;Watches
+65;IWC;Portugieser;Stainless Steel;Leather;Automatic;30 meters;41.0;12.3;22.0;Silver;Sapphire;Chronograph, Date;46 hours;8,300;Watches
+66;Panerai;Luminor Marina;Stainless Steel;Leather;Automatic;300 meters;44.0;13.05;24.0;Black;Sapphire;Date, Second Time Zone;72 hours;8,900;Watches
+67;Blancpain;Fifty Fathoms;Stainless Steel;Fabric;Automatic;300 meters;43.6;13.83;23.0;Black;Sapphire;Date, Unidirectional Bezel;120 hours;12,000;Watches
+68;Hublot;Classic Fusion;Titanium;Rubber;Automatic;50 meters;45.0;10.95;24.0;Blue;Sapphire;Date;42 hours;7,500;Watches
+69;Zenith;Chronomaster;Stainless Steel;Leather;Automatic;50 meters;42.0;14.05;22.0;Silver;Sapphire;Chronograph, Date;50 hours;6,900;Watches
+70;Vacheron Constantin;Overseas;Stainless Steel;Stainless Steel;Automatic;50 meters;41.0;11.0;20.0;Blue;Sapphire;Date, Second Time Zone;60 hours;15,500;Watches
+71;Girard-Perregaux;Laureato;Stainless Steel;Stainless Steel;Automatic;100 meters;42.0;10.88;22.0;Black;Sapphire;None;54 hours;11,200;Watches
+72;Audemars Piguet;Royal Oak;Stainless Steel;Stainless Steel;Automatic;50 meters;39.0;9.4;20.0;Blue;Sapphire;Date, Power Reserve Indicator;60 hours;18,900;Watches
+73;Patek Philippe;Nautilus;Stainless Steel;Stainless Steel;Automatic;120 meters;40.5;8.3;20.0;Blue;Sapphire;Date;45 hours;49,800;Watches
+74;IWC;Pilot's Watch;Stainless Steel;Leather;Automatic;60 meters;41.0;12.5;20.0;Black;Sapphire;Date, Chronograph;44 hours;5,500;Watches
+75;Panerai;Luminor;Titanium;Rubber;Automatic;300 meters;44.0;15.65;24.0;Black;Sapphire;Date;72 hours;9,600;Watches
+76;Breguet;Type XX;Stainless Steel;Leather;Automatic;100 meters;39.5;14.1;20.0;Black;Sapphire;Date, Chronograph, Flyback;48 hours;8,800;Watches
+77;Blancpain;Fifty Fathoms;Stainless Steel;Rubber;Automatic;300 meters;43.0;13.4;23.0;Black;Sapphire;Date;120 hours;14,700;Watches
+78;Girard-Perregaux;Laureato;Stainless Steel;Stainless Steel;Automatic;100 meters;42.0;10.88;22.0;Blue;Sapphire;Date;54 hours;10,600;Watches
+79;Vacheron Constantin;Overseas;Stainless Steel;Stainless Steel;Automatic;150 meters;41.0;11.0;20.0;Black;Sapphire;Date;60 hours;19,200;Watches
+80;Zenith;El Primero;Stainless Steel;Leather;Automatic;100 meters;38.0;12.15;19.0;Silver;Sapphire;Chronograph;50 hours;7,500;Watches
+81;Chopard;Mille Miglia;Stainless Steel;Leather;Automatic;50 meters;42.0;12.67;20.0;Black;Sapphire;Chronograph;48 hours;5,600;Watches
+82;Longines;HydroConquest;Stainless Steel;Stainless Steel;Automatic;300 meters;43.0;12.75;22.0;Blue;Sapphire;Date;64 hours;1,400;Watches
+83;Rolex;Submariner;Stainless Steel;Stainless Steel;Automatic;300 meters;40.0;13.0;20.0;Black;Sapphire;Date;48 hours;9,500;Watches
+84;Omega;Seamaster;Titanium;Rubber;Automatic;600 meters;43.5;14.47;21.0;Blue;Sapphire;Date;60 hours;5,800;Watches
+85;Tag Heuer;Carrera;Stainless Steel;Leather;Automatic;100 meters;41.0;13.0;20.0;White;Sapphire;Chronograph;42 hours;4,200;Watches
+86;Breitling;Navitimer;Stainless Steel;Stainless Steel;Automatic;30 meters;43.0;14.25;22.0;Black;Sapphire;Chronograph;70 hours;7,900;Watches
+88;Jaeger-LeCoultre;Reverso;Stainless Steel;Leather;Manual;30 meters;42.9;9.2;20.0;Black;Sapphire;None;45 hours;5,500;Watches
+89;Tudor;Black Bay;Stainless Steel;Leather;Automatic;200 meters;41.0;12.75;22.0;Black;Sapphire;Date;70 hours;3,500;Watches
+90;Seiko;Prospex;Stainless Steel;Silicone;Automatic;200 meters;42.3;13.4;22.0;Blue;Hardlex;None;50 hours;650;Watches
+91;Citizen;Promaster;Titanium;Titanium;Eco-Drive;200 meters;46.5;15.0;23.0;Black;Sapphire;Chronograph;210 days;995;Watches
+92;Hamilton;Khaki Field Auto;Stainless Steel;Leather;Automatic;100 meters;38.0;9.85;20.0;Black;Sapphire;None;80 hours;545;Watches
+94;Omega;Speedmaster;Stainless Steel;Stainless Steel;Manual;50 meters;42.0;14.3;20.0;Black;Hesalite;Chronograph, Tachymeter;48 hours;5,500;Watches
+95;Breitling;Superocean Heritage;Stainless Steel;Rubber;Automatic;200 meters;42.0;14.35;22.0;Black;Sapphire;Date;38 hours;4,800;Watches
+96;Jaeger-LeCoultre;Master Control;Stainless Steel;Leather;Automatic;50 meters;40.0;8.8;20.0;Silver;Sapphire;Date;70 hours;6,500;Watches
+97;Cartier;Santos;Stainless Steel;Stainless Steel;Automatic;100 meters;39.8;9.08;21.5;Silver;Sapphire;Date;42 hours;7,500;Watches
+98;Zenith;Elite;Stainless Steel;Leather;Automatic;50 meters;40.5;9.15;20.0;Silver;Sapphire;None;50 hours;4,500;Watches
+99;Panerai;Luminor Base;Stainless Steel;Leather;Manual;100 meters;44.0;10.5;24.0;Black;Sapphire;None;56 hours;5,800;Watches
+100;Audemars Piguet;Royal Oak;Stainless Steel;Stainless Steel;Automatic;50 meters;41.0;10.4;20.0;Silver;Sapphire;Date;60 hours;21,000;Watches
+101;IWC;Pilot's Watch;Stainless Steel;Leather;Automatic;60 meters;41.0;10.86;20.0;Black;Sapphire;Date;42 hours;3,800;Watches
+102;Tudor;Black Bay;Stainless Steel;Leather;Automatic;200 meters;41.0;12.7;22.0;Black;Sapphire;Date;70 hours;3,900;Watches
+104;Sinn;U1;Stainless Steel;Rubber;Automatic;1000 meters;44.0;14.3;22.0;Black;Sapphire;None;38 hours;2,500;Watches
+105;Patek Philippe;Nautilus;Stainless Steel;Stainless Steel;Automatic;120 meters;40.8;8.3;20.0;Blue;Sapphire;Date, Power Reserve, Moon Phase;45 hours;38,000;Watches
+106;Audemars Piguet;Royal Oak;Rose Gold;Rose Gold;Automatic;50 meters;41.0;9.8;20.0;Blue;Sapphire;Date;60 hours;55,000;Watches
+107;Vacheron Constantin;Overseas;Stainless Steel;Stainless Steel;Automatic;150 meters;41.0;11.0;22.0;Blue;Sapphire;Date, Power Reserve;40 hours;21,000;Watches
+108;A. Lange & Sohne;Saxonia;White Gold;Leather;Manual;30 meters;38.5;7.8;18.0;Silver;Sapphire;None;45 hours;23,000;Watches
+109;Breguet;Classique;Rose Gold;Leather;Manual;30 meters;38.5;8.25;20.0;Silver;Sapphire;Power Reserve;65 hours;23,000;Watches
+110;IWC;Portugieser;Stainless Steel;Leather;Automatic;30 meters;41.0;12.3;22.0;Blue;Sapphire;None;60 hours;8,500;Watches
+111;Blancpain;Fifty Fathoms;Stainless Steel;Fabric;Automatic;300 meters;45.0;15.5;23.0;Black;Sapphire;Date;120 hours;14,000;Watches
+112;Hublot;Big Bang;Titanium;Rubber;Automatic;100 meters;44.0;14.5;24.0;Blue;Sapphire;Chronograph;72 hours;16,000;Watches
+113;Panerai;Luminor Marina;Stainless Steel;Leather;Automatic;300 meters;44.0;15.65;24.0;Black;Sapphire;None;72 hours;8,500;Watches
+114;Zenith;El Primero;Stainless Steel;Leather;Automatic;100 meters;42.0;12.75;20.0;Silver;Sapphire;Chronograph;50 hours;6,000;Watches
+115;Piaget;Altiplano;White Gold;Leather;Manual;30 meters;38.0;6.1;20.0;Silver;Sapphire;None;43 hours;16,500;Watches
+116;Seiko;Prospex;Stainless Steel;Silicone;Automatic;200 meters;44.3;12.7;20.0;Blue;Sapphire;Day/Date;41 hours;1,200;Watches
+117;Panerai;Luminor Due;Stainless Steel;Leather;Automatic;30 meters;38.0;11.2;20.0;Black;Sapphire;None;72 hours;6,500;Watches
+118;IWC;Portugieser;Stainless Steel;Leather;Automatic;30 meters;41.0;12.3;22.0;Blue;Sapphire;Chronograph, Moon Phase;46 hours;9,800;Watches
+119;Blancpain;Fifty Fathoms;Titanium;Rubber;Automatic;300 meters;45.0;15.5;23.0;Black;Sapphire;None;120 hours;16,800;Watches
+120;Audemars Piguet;Royal Oak;Stainless Steel;Stainless Steel;Automatic;50 meters;41.0;9.5;20.0;Black;Sapphire;Date;60 hours;19,800;Watches
+121;Patek Philippe;Nautilus;Stainless Steel;Stainless Steel;Automatic;120 meters;40.8;8.3;20.0;Blue;Sapphire;Date;45 hours;47,000;Watches
+122;Breguet;Classique;18K Rose Gold;Leather;Automatic;30 meters;40.0;6.8;20.0;White;Sapphire;None;55 hours;19,000;Watches
+123;Vacheron Constantin;Patrimony;18K White Gold;Leather;Manual;30 meters;40.0;6.79;20.0;Silver;Sapphire;None;65 hours;18,500;Watches
+124;Chopard;Mille Miglia;Stainless Steel;Leather;Automatic;50 meters;44.0;14.97;22.0;Black;Sapphire;Chronograph;42 hours;5,800;Watches
+125;Longines;Conquest;Stainless Steel;Stainless Steel;Automatic;300 meters;41.0;13.2;20.0;Black;Sapphire;Chronograph;54 hours;2,200;Watches
+126;Montblanc;1858;Stainless Steel;Leather;Manual;30 meters;44.0;12.3;22.0;Black;Sapphire;None;50 hours;3,500;Watches
+127;Rolex;GMT-Master II;Stainless Steel;Stainless Steel;Automatic;100 meters;40.0;12.5;20.0;Black;Sapphire;GMT, Date;70 hours;9,950;Watches
+128;Omega;Speedmaster;Stainless Steel;Stainless Steel;Automatic;50 meters;42.0;13.7;20.0;Black;Hesalite;Chronograph;48 hours;4,950;Watches
+129;Patek Philippe;Nautilus;Stainless Steel;Stainless Steel;Automatic;120 meters;40.8;8.3;20.0;Blue;Sapphire;Date;45 hours;38,000;Watches
+130;Audemars Piguet;Royal Oak;Stainless Steel;Stainless Steel;Automatic;50 meters;41.0;9.8;20.0;Blue;Sapphire;Date;60 hours;22,000;Watches
+131;IWC;Portugieser;Stainless Steel;Leather;Automatic;30 meters;41.0;12.3;22.0;Silver;Sapphire;None;46 hours;7,500;Watches
+132;Jaeger-LeCoultre;Master Ultra Thin;Stainless Steel;Leather;Automatic;50 meters;39.0;7.58;20.0;Silver;Sapphire;Date;70 hours;8,900;Watches
+133;Blancpain;Fifty Fathoms;Stainless Steel;Fabric;Automatic;300 meters;45.0;15.4;23.0;Black;Sapphire;Date;120 hours;13,900;Watches
+134;Breguet;Classique;Rose Gold;Leather;Manual;30 meters;40.0;6.8;20.0;Silver;Sapphire;None;65 hours;20,500;Watches
+135;Ulysse Nardin;Marine;Titanium;Rubber;Automatic;300 meters;44.0;14.5;22.0;Blue;Sapphire;Date;60 hours;9,500;Watches
+136;Hublot;Big Bang;Ceramic;Rubber;Automatic;100 meters;41.0;14.5;20.0;Black;Sapphire;Chronograph;72 hours;16,000;Watches
+137;Zenith;El Primero;Stainless Steel;Leather;Automatic;100 meters;38.0;12.75;20.0;White;Sapphire;Chronograph;50 hours;5,500;Watches
+138;Rolex;Datejust;Stainless Steel;Stainless Steel;Automatic;100 meters;41.0;11.8;20.0;Black;Sapphire;Date;70 hours;8,200;Watches
+139;Omega;Speedmaster Moonwatch;Stainless Steel;Stainless Steel;Manual;50 meters;42.0;13.2;20.0;Black;Hesalite;Chronograph, Tachymeter;48 hours;5,500;Watches
+140;Cartier;Ballon Bleu;Stainless Steel;Stainless Steel;Automatic;30 meters;33.0;9.96;18.0;Silver;Sapphire;Date;42 hours;6,500;Watches
+141;Breitling;Superocean;Stainless Steel;Rubber;Automatic;500 meters;42.0;13.32;20.0;Blue;Sapphire;Date;38 hours;3,600;Watches
+142;Patek Philippe;Calatrava;Rose Gold;Leather;Manual;30 meters;36.0;7.45;18.0;White;Sapphire;None;44 hours;18,000;Watches
+143;Hublot;Big Bang;Titanium;Rubber;Automatic;100 meters;42.0;14.5;24.0;Black;Sapphire;Chronograph, Date;72 hours;8,900;Watches
+144;Blancpain;Fifty Fathoms;Stainless Steel;Canvas;Automatic;300 meters;45.0;15.4;23.0;Black;Sapphire;Date, Rotating Bezel;120 hours;13,500;Watches
+145;Audemars Piguet;Royal Oak;Stainless Steel;Stainless Steel;Automatic;50 meters;41.0;10.4;20.0;Blue;Sapphire;Date;60 hours;26,000;Watches
+146;Zenith;El Primero;Stainless Steel;Leather;Automatic;100 meters;42.0;12.75;22.0;Black;Sapphire;Chronograph;50 hours;6,500;Watches
+147;IWC;Portugieser;Stainless Steel;Leather;Automatic;30 meters;41.5;12.3;22.0;Silver;Sapphire;None;60 hours;7,800;Watches
+148;Jaeger-LeCoultre;Master Ultra Thin;Stainless Steel;Leather;Automatic;50 meters;38.0;7.58;20.0;Silver;Sapphire;None;70 hours;4,500;Watches
+149;Patek Philippe;Nautilus;Stainless Steel;Stainless Steel;Automatic;120 meters;40.5;8.3;22.0;Blue;Sapphire;Date;45 hours;29,800;Watches
+150;Audemars Piguet;Royal Oak;Stainless Steel;Stainless Steel;Automatic;50 meters;41.0;9.8;20.0;Black;Sapphire;Date;60 hours;23,100;Watches
+151;IWC;Portugieser;Stainless Steel;Leather;Automatic;30 meters;41.0;12.3;22.0;Silver;Sapphire;None;60 hours;7,950;Watches
+152;Vacheron Constantin;Overseas;Stainless Steel;Rubber;Automatic;150 meters;41.5;11.0;22.0;Blue;Sapphire;Date;40 hours;18,900;Watches
+153;Blancpain;Fifty Fathoms;Stainless Steel;Canvas;Automatic;300 meters;45.0;15.5;23.0;Black;Sapphire;Date;120 hours;12,800;Watches
+154;Hublot;Big Bang;Ceramic;Rubber;Automatic;100 meters;44.0;14.5;26.0;Black;Sapphire;Chronograph;72 hours;17,900;Watches
+155;Breguet;Classique;18k Rose Gold;Leather;Manual;30 meters;39.0;8.65;20.0;Silver;Sapphire;None;40 hours;15,200;Watches
+156;Ulysse Nardin;Marine;Stainless Steel;Leather;Automatic;100 meters;42.2;14.2;22.0;Blue;Sapphire;Date;60 hours;8,400;Watches
+157;Zenith;Defy;Titanium;Rubber;Automatic;100 meters;41.0;10.75;22.0;Blue;Sapphire;Chronograph;50 hours;9,500;Watches
+158;Girard-Perregaux;Laureato;Stainless Steel;Stainless Steel;Automatic;100 meters;42.0;10.88;22.0;Silver;Sapphire;None;46 hours;9,200;Watches
+159;Panerai;Luminor;Stainless Steel;Leather;Manual;100 meters;44.0;13.05;24.0;Black;Sapphire;None;56 hours;7,500;Watches
+160;Seiko;Prospex;Stainless Steel;Silicone;Automatic;200 meters;43.0;13.2;22.0;Blue;Hardlex;Date;50 hours;1,300;Watches
+161;Tissot;Le Locle;Stainless Steel;Leather;Automatic;30 meters;39.3;9.75;20.0;Silver;Sapphire;Date;38 hours;650;Watches
+162;Longines;Master Collection;Stainless Steel;Leather;Automatic;30 meters;40.0;10.25;20.0;Black;Sapphire;Date;64 hours;2,500;Watches
+163;Hamilton;Jazzmaster;Stainless Steel;Leather;Automatic;50 meters;40.0;11.15;20.0;Silver;Sapphire;Date;80 hours;1,150;Watches
+164;Montblanc;Heritage;Stainless Steel;Leather;Automatic;50 meters;40.0;9.85;20.0;Silver;Sapphire;Date;42 hours;2,750;Watches
+166;Frederique Constant;Classics;Stainless Steel;Leather;Automatic;50 meters;40.0;10.5;20.0;Silver;Sapphire;Date;38 hours;1,400;Watches
+167;Zenith;Elite;Stainless Steel;Leather;Automatic;50 meters;40.5;8.15;22.0;White;Sapphire;Date;50 hours;5,500;Watches
+168;Girard-Perregaux;Laureato;Stainless Steel;Stainless Steel;Automatic;100 meters;38.0;10.88;25.0;Black;Sapphire;Date;46 hours;8,700;Watches
+169;Ulysse Nardin;Marine Torpilleur;Stainless Steel;Leather;Automatic;50 meters;42.0;11.15;20.0;Blue;Sapphire;Date;60 hours;7,900;Watches
+170;Sinn;U50;German Submarine Steel;Silicone;Automatic;500 meters;45.0;14.7;22.0;Black;Sapphire;None;38 hours;3,350;Watches
+171;Rolex;Datejust;Stainless Steel;Jubilee;Automatic;100 meters;36.0;12.5;20.0;Black;Sapphire;Date;70 hours;8,000;Watches
+172;Omega;Speedmaster;Stainless Steel;Stainless Steel;Automatic;50 meters;42.0;13.5;20.0;Black;Sapphire;Chronograph;60 hours;6,500;Watches
+173;Cartier;Ballon Bleu;Stainless Steel;Leather;Automatic;30 meters;33.0;9.96;16.0;Silver;Sapphire;Date;42 hours;4,500;Watches
+175;Breitling;Superocean;Stainless Steel;Rubber;Automatic;2000 meters;42.0;13.32;20.0;Blue;Sapphire;Date;38 hours;3,600;Watches
+176;IWC;Portugieser;Stainless Steel;Leather;Automatic;30 meters;41.0;12.3;22.0;Blue;Sapphire;Date;60 hours;8,900;Watches
+177;Panerai;Luminor Marina;Titanium;Leather;Manual;300 meters;44.0;13.05;24.0;Black;Sapphire;None;56 hours;5,700;Watches
+178;Patek Philippe;Nautilus;Stainless Steel;Stainless Steel;Automatic;120 meters;40.5;8.3;22.0;Blue;Sapphire;Date;45 hours;34,000;Watches
+179;Jaeger-LeCoultre;Master Ultra Thin;Stainless Steel;Leather;Automatic;50 meters;39.0;7.58;20.0;Silver;Sapphire;None;43 hours;6,800;Watches
+180;Bell & Ross;BR V2-92;Stainless Steel;Rubber;Automatic;100 meters;41.0;9.7;22.0;Black;Sapphire;Date;40 hours;2,500;Watches
+181;Montblanc;1858;Bronze;Leather;Automatic;100 meters;44.0;12.8;22.0;Black;Sapphire;None;42 hours;5,300;Watches
+182;Patek Philippe;Nautilus;Stainless Steel;Stainless Steel;Automatic;120 meters;40.5;8.3;22.0;Blue;Sapphire;Date;45 hours;34,000;Watches
+183;Audemars Piguet;Royal Oak;Stainless Steel;Stainless Steel;Automatic;50 meters;41.0;9.8;20.0;Black;Sapphire;Date;60 hours;22,000;Watches
+184;Vacheron Constantin;Overseas;Stainless Steel;Rubber;Automatic;150 meters;41.0;11.0;21.0;Blue;Sapphire;Date;60 hours;17,500;Watches
+185;IWC;Portugieser;Stainless Steel;Leather;Automatic;30 meters;41.0;13.1;22.0;Silver;Sapphire;Date;60 hours;8,500;Watches
+186;Hublot;Big Bang;Ceramic;Rubber;Automatic;100 meters;44.5;14.5;22.0;Black;Sapphire;Chronograph;72 hours;15,000;Watches
+187;Zenith;El Primero;Stainless Steel;Leather;Automatic;100 meters;38.0;12.4;19.0;White;Sapphire;Chronograph;50 hours;6,000;Watches
+188;Chopard;Mille Miglia;Stainless Steel;Leather;Automatic;50 meters;42.0;12.67;20.0;Black;Sapphire;Chronograph;48 hours;5,000;Watches
+189;Panerai;Luminor;Titanium;Rubber;Automatic;300 meters;44.0;13.05;24.0;Black;Sapphire;None;72 hours;8,500;Watches
+190;Girard-Perregaux;Laureato;Stainless Steel;Stainless Steel;Automatic;100 meters;42.0;10.88;22.0;Blue;Sapphire;Date;54 hours;9,000;Watches
+191;Blancpain;Fifty Fathoms;Stainless Steel;NATO Strap;Automatic;300 meters;45.0;15.5;23.0;Black;Sapphire;None;120 hours;12,500;Watches
+192;Bulgari;Octo Finissimo;Titanium;Leather;Automatic;30 meters;40.0;5.5;21.0;Black;Sapphire;None;55 hours;10,000;Watches
+193;Tudor;Black Bay;Stainless Steel;Leather;Automatic;200 meters;41.0;12.7;22.0;Black;Sapphire;Date;70 hours;3,800;Watches
+194;Panerai;Luminor Marina;Stainless Steel;Leather;Automatic;300 meters;44.0;13.05;22.0;Black;Sapphire;Date;72 hours;8,900;Watches
+195;Hublot;Big Bang;Titanium;Rubber;Automatic;100 meters;44.0;14.5;25.0;Black;Sapphire;Chronograph;72 hours;16,800;Watches
+196;IWC;Portugieser;Stainless Steel;Leather;Automatic;30 meters;40.9;12.3;20.0;Silver;Sapphire;Date;44 hours;6,900;Watches
+197;Audemars Piguet;Royal Oak;Stainless Steel;Stainless Steel;Automatic;50 meters;41.0;9.8;20.0;Blue;Sapphire;Date;60 hours;24,500;Watches
+198;Vacheron Constantin;Overseas;Stainless Steel;Rubber;Automatic;150 meters;41.5;11.0;21.0;Silver;Sapphire;Date;40 hours;19,500;Watches
+199;Breguet;Classique;18k White Gold;Leather;Automatic;30 meters;39.0;8.65;20.0;Silver;Sapphire;Date;55 hours;24,500;Watches
+200;Piaget;Altiplano;18k Rose Gold;Leather;Manual;30 meters;38.0;6.0;20.0;White;Sapphire;None;43 hours;20,800;Watches
+201;Blancpain;Fifty Fathoms;Stainless Steel;Fabric;Automatic;300 meters;45.0;15.5;23.0;Black;Sapphire;Date;120 hours;13,000;Watches
+202;Girard-Perregaux;Laureato;Stainless Steel;Stainless Steel;Automatic;100 meters;41.0;10.88;22.0;Black;Sapphire;Date;46 hours;9,700;Watches
+203;Zenith;Chronomaster;Stainless Steel;Leather;Automatic;50 meters;42.0;14.05;22.0;Silver;Sapphire;Chronograph;50 hours;7,400;Watches
+204;Breitling;Superocean Heritage II;Stainless Steel;Rubber;Automatic;200 meters;44.0;14.2;22.0;Black;Sapphire;Date;70 hours;4,300;Watches
+205;Cartier;Santos de Cartier;Stainless Steel;Stainless Steel;Automatic;100 meters;39.8;9.08;20.0;Silver;Sapphire;Date;42 hours;6,500;Watches
+206;Omega;Speedmaster;Stainless Steel;Leather;Manual;50 meters;42.0;13.7;20.0;Black;Hesalite;Chronograph;48 hours;5,500;Watches
+207;Rolex;GMT-Master II;Stainless Steel;Stainless Steel;Automatic;100 meters;40.0;12.4;20.0;Black;Sapphire;GMT, Date;70 hours;9,100;Watches
+208;Jaeger-LeCoultre;Master Control;Stainless Steel;Leather;Automatic;50 meters;40.0;8.8;20.0;Silver;Sapphire;Date;70 hours;7,500;Watches
+209;Audemars Piguet;Royal Oak;Stainless Steel;Stainless Steel;Automatic;50 meters;41.0;10.4;20.0;Blue;Sapphire;Date;60 hours;20,900;Watches
+210;IWC;Pilot's Watch Mark XVIII;Stainless Steel;Leather;Automatic;60 meters;40.0;10.8;20.0;Black;Sapphire;Date;42 hours;4,200;Watches
+211;Patek Philippe;Calatrava;18k White Gold;Leather;Automatic;30 meters;39.0;8.6;20.0;Silver;Sapphire;Date;48 hours;22,000;Watches
+213;Tudor;Black Bay;Stainless Steel;Leather;Automatic;200 meters;41.0;12.7;22.0;Black;Sapphire;Date;70 hours;3,600;Watches
+214;Rolex;Datejust;Stainless Steel;Jubilee Bracelet;Automatic;100 meters;36.0;12.5;20.0;Silver;Sapphire;Date;70 hours;8,900;Watches
+215;Omega;Speedmaster;Stainless Steel;Stainless Steel;Automatic;50 meters;42.0;13.5;20.0;Black;Sapphire;Chronograph;60 hours;6,800;Watches
+217;Breitling;Superocean Heritage;Stainless Steel;Leather;Automatic;200 meters;42.0;14.35;20.0;Black;Sapphire;Date;38 hours;4,400;Watches
+218;Cartier;Ballon Bleu;18k Rose Gold;Leather;Automatic;30 meters;33.0;9.96;18.0;Silver;Sapphire;Date;42 hours;13,000;Watches
+219;Jaeger-LeCoultre;Master Control;Stainless Steel;Leather;Automatic;50 meters;39.0;8.5;20.0;Silver;Sapphire;Date;70 hours;7,500;Watches
+220;Tudor;Black Bay GMT;Stainless Steel;Stainless Steel;Automatic;200 meters;41.0;14.5;22.0;Black;Sapphire;GMT;70 hours;4,500;Watches
+221;Zenith;El Primero;Stainless Steel;Leather;Automatic;100 meters;38.0;12.45;19.0;White;Sapphire;Chronograph;50 hours;6,900;Watches
+222;Longines;HydroConquest;Stainless Steel;Stainless Steel;Automatic;300 meters;41.0;12.65;20.0;Black;Sapphire;Date;64 hours;1,800;Watches
+223;Oris;Divers Sixty-Five;Stainless Steel;Leather;Automatic;100 meters;40.0;12.9;20.0;Blue;Sapphire;Date;38 hours;1,500;Watches
+224;Hamilton;Khaki Field;Stainless Steel;NATO Strap;Automatic;100 meters;38.0;9.7;20.0;Black;Sapphire;None;80 hours;595;Watches
+225;Panerai;Luminor Marina;Stainless Steel;Leather;Automatic;300 meters;42.0;13.2;22.0;Black;Sapphire;Date;72 hours;7,500;Watches
+226;IWC;Pilot's Watch;Stainless Steel;Leather;Automatic;60 meters;41.0;15.3;22.0;Black;Sapphire;Date;72 hours;5,400;Watches
+227;Patek Philippe;Calatrava;White Gold;Leather;Manual;30 meters;37.0;7.7;20.0;White;Sapphire;None;44 hours;25,000;Watches
+228;Hublot;Big Bang;Carbon Fiber;Rubber;Automatic;100 meters;44.0;14.5;25.0;Black;Sapphire;Chronograph;72 hours;15,000;Watches
+229;Zenith;Chronomaster;Stainless Steel;Leather;Automatic;50 meters;38.0;12.6;20.0;Silver;Sapphire;Chronograph;50 hours;7,500;Watches
+230;Audemars Piguet;Royal Oak;Stainless Steel;Stainless Steel;Automatic;50 meters;41.0;9.8;20.0;Blue;Sapphire;Date;60 hours;25,000;Watches
+231;Vacheron Constantin;Overseas;Stainless Steel;Stainless Steel;Automatic;50 meters;41.0;11.0;22.0;Blue;Sapphire;Date;40 hours;18,000;Watches
+232;Breguet;Classique;White Gold;Leather;Automatic;30 meters;39.0;8.65;21.0;Silver;Sapphire;None;55 hours;20,000;Watches
+233;Ulysse Nardin;Marine;Stainless Steel;Rubber;Automatic;100 meters;42.0;12.8;22.0;Blue;Sapphire;Date;60 hours;8,500;Watches
+234;Blancpain;Fifty Fathoms;Stainless Steel;Canvas;Automatic;300 meters;45.0;15.5;23.0;Black;Sapphire;None;120 hours;10,500;Watches
+235;Girard-Perregaux;Laureato;Stainless Steel;Stainless Steel;Automatic;100 meters;42.0;10.88;22.0;Black;Sapphire;Date;54 hours;9,000;Watches
+236;Patek Philippe;Nautilus;Stainless Steel;Stainless Steel;Automatic;120 meters;40.8;8.3;21.0;Blue;Sapphire;Date;55 hours;51,000;Watches
+237;Audemars Piguet;Royal Oak;Stainless Steel;Stainless Steel;Automatic;50 meters;41.0;9.8;20.0;Blue;Sapphire;Date;60 hours;22,000;Watches
+238;IWC;Pilot's Watch;Stainless Steel;Leather;Automatic;60 meters;46.2;15.0;20.0;Black;Sapphire;Chronograph;68 hours;7,500;Watches
+239;Blancpain;Fifty Fathoms;Titanium;Fabric;Automatic;300 meters;45.0;15.4;23.0;Black;Sapphire;Date;120 hours;14,500;Watches
+240;Vacheron Constantin;Overseas;Stainless Steel;Stainless Steel;Automatic;150 meters;41.0;11.0;22.0;Silver;Sapphire;Date;60 hours;21,500;Watches
+241;Zenith;El Primero;Stainless Steel;Leather;Automatic;100 meters;42.0;12.75;20.0;Black;Sapphire;Chronograph;50 hours;7,500;Watches
+242;Hublot;Big Bang;Titanium;Rubber;Automatic;100 meters;44.0;14.5;22.0;Black;Sapphire;Chronograph;72 hours;15,000;Watches
+243;Breguet;Classique;18k Rose Gold;Leather;Automatic;30 meters;39.0;10.2;22.0;Silver;Sapphire;None;40 hours;18,000;Watches
+245;Girard-Perregaux;Laureato;Stainless Steel;Stainless Steel;Automatic;100 meters;41.0;10.88;22.0;Blue;Sapphire;Date;54 hours;11,500;Watches
+246;Panerai;Luminor Marina;Stainless Steel;Leather;Automatic;300 meters;44.0;15.65;24.0;Black;Sapphire;Date;72 hours;8,000;Watches
+247;Tudor;Black Bay;Stainless Steel;Leather;Automatic;200 meters;41.0;14.75;22.0;Black;Sapphire;None;70 hours;3,800;Watches
+248;Panerai;Luminor;Stainless Steel;Leather;Manual;100 meters;44.0;13.05;24.0;Black;Sapphire;None;56 hours;6,400;Watches
+249;IWC;Portugieser;Stainless Steel;Leather;Automatic;30 meters;41.0;12.3;22.0;Silver;Sapphire;Date;60 hours;8,900;Watches
+250;Audemars Piguet;Royal Oak;Stainless Steel;Stainless Steel;Automatic;50 meters;41.0;9.8;20.0;Blue;Sapphire;Date;60 hours;20,400;Watches
+251;Vacheron Constantin;Overseas;Stainless Steel;Rubber;Automatic;150 meters;41.0;11.0;21.0;Blue;Sapphire;Date;60 hours;22,000;Watches
+252;Patek Philippe;Nautilus;Stainless Steel;Stainless Steel;Automatic;120 meters;40.8;8.3;21.0;Blue;Sapphire;Date;45 hours;62,500;Watches
+253;Blancpain;Fifty Fathoms;Stainless Steel;Canvas;Automatic;300 meters;45.0;15.5;23.0;Black;Sapphire;Date;120 hours;14,900;Watches
+254;Chopard;Mille Miglia;Stainless Steel;Leather;Automatic;50 meters;42.0;12.67;20.0;Silver;Sapphire;Chronograph;42 hours;5,900;Watches
+255;Longines;Master Collection;Stainless Steel;Leather;Automatic;30 meters;40.0;9.35;20.0;Silver;Sapphire;Date;64 hours;1,500;Watches
+256;Montblanc;Heritage;Stainless Steel;Leather;Automatic;50 meters;40.0;9.85;20.0;Black;Sapphire;Date;38 hours;2,700;Watches
+257;Zenith;El Primero;Stainless Steel;Leather;Automatic;100 meters;42.0;12.75;20.0;Black;Sapphire;Chronograph;50 hours;6,500;Watches
+258;Rolex;Datejust;Stainless Steel;Stainless Steel;Automatic;100 meters;41.0;11.8;21.0;Blue;Sapphire;Date;70 hours;7,800;Watches
+259;Omega;Speedmaster;Stainless Steel;Stainless Steel;Automatic;50 meters;42.0;13.75;20.0;Black;Sapphire;Chronograph, Date;48 hours;5,300;Watches
+260;Tag Heuer;Monaco;Stainless Steel;Leather;Automatic;100 meters;39.0;14.5;22.0;Blue;Sapphire;Chronograph;42 hours;5,900;Watches
+261;Breitling;Superocean;Stainless Steel;Rubber;Automatic;1000 meters;44.0;14.21;22.0;Blue;Sapphire;Date;38 hours;3,800;Watches
+262;Cartier;Ballon Bleu;Stainless Steel;Stainless Steel;Automatic;30 meters;42.0;13.0;22.0;Silver;Sapphire;Date;42 hours;7,500;Watches
+263;Jaeger-LeCoultre;Master Ultra Thin;Stainless Steel;Leather;Automatic;50 meters;39.0;7.5;20.0;White;Sapphire;Date;38 hours;6,200;Watches
+264;Rolex;GMT-Master II;Stainless Steel;Stainless Steel;Automatic;100 meters;40.0;12.5;20.0;Black;Sapphire;GMT, Date;70 hours;9,500;Watches
+265;Omega;Aqua Terra;Stainless Steel;Stainless Steel;Automatic;150 meters;41.5;13.0;20.0;Silver;Sapphire;Date;60 hours;4,700;Watches
+266;Tag Heuer;Aquaracer;Stainless Steel;Stainless Steel;Automatic;300 meters;41.0;12.5;20.0;Black;Sapphire;Date;38 hours;2,700;Watches
+267;Breitling;Avenger II;Stainless Steel;Rubber;Automatic;300 meters;43.0;16.5;22.0;Black;Sapphire;Chronograph, Date;42 hours;4,600;Watches
+268;Cartier;Santos;Stainless Steel;Leather;Automatic;100 meters;35.1;8.83;22.0;Silver;Sapphire;Date;42 hours;5,300;Watches
+269;Rolex;Daytona;Yellow Gold;Leather;Automatic;100 meters;40.0;12.4;20.0;Ivory;Sapphire;Chronograph;72 hours;39,500;Watches
+270;Omega;Speedmaster;Stainless Steel;Stainless Steel;Manual;50 meters;42.0;14.3;20.0;Black;Sapphire;Chronograph;48 hours;5,400;Watches
+271;TAG Heuer;Monaco;Stainless Steel;Leather;Automatic;100 meters;39.0;14.0;22.0;Blue;Sapphire;Chronograph;42 hours;6,550;Watches
+273;Breitling;Superocean;Stainless Steel;Rubber;Automatic;1000 meters;42.0;13.32;20.0;Blue;Sapphire;Date;38 hours;3,850;Watches
+274;Patek Philippe;Calatrava;White Gold;Leather;Automatic;30 meters;39.0;8.25;20.0;Silver;Sapphire;None;48 hours;25,800;Watches
+275;Tudor;Black Bay;Stainless Steel;Fabric;Automatic;200 meters;41.0;11.9;22.0;Black;Sapphire;Date;70 hours;4,100;Watches
+276;Blancpain;Fifty Fathoms;Stainless Steel;Rubber;Automatic;300 meters;45.0;15.5;23.0;Black;Sapphire;Date;120 hours;12,900;Watches
+277;IWC;Portugieser;Stainless Steel;Leather;Automatic;30 meters;41.0;12.3;22.0;Blue;Sapphire;None;60 hours;6,900;Watches
+278;Vacheron Constantin;Overseas;Stainless Steel;Rubber;Automatic;150 meters;41.0;11.0;22.0;Blue;Sapphire;Date;40 hours;19,800;Watches
+279;Rolex;Datejust;Stainless Steel;Stainless Steel;Automatic;100 meters;36.0;12.0;20.0;Black;Sapphire;Date;70 hours;8,100;Watches
+280;Rolex;Datejust;Stainless Steel;Stainless Steel;Automatic;100 meters;36.0;12.5;20.0;Black;Sapphire;Date;70 hours;6,500;Watches
+281;Omega;Speedmaster Moonwatch;Stainless Steel;Stainless Steel;Manual;50 meters;42.0;14.3;20.0;Black;Hesalite;Chronograph;48 hours;5,400;Watches
+282;Patek Philippe;Nautilus;Stainless Steel;Stainless Steel;Automatic;120 meters;40.5;8.3;20.0;Blue;Sapphire;Date;55 hours;44,000;Watches
+283;Cartier;Ballon Bleu;18k Rose Gold;Leather;Automatic;30 meters;33.0;9.96;18.0;Silver;Sapphire;Date;42 hours;13,200;Watches
+284;Hublot;Classic Fusion;18k King Gold;Rubber;Automatic;50 meters;42.0;10.5;22.0;Blue;Sapphire;None;42 hours;20,200;Watches
+285;Audemars Piguet;Royal Oak;Stainless Steel;Stainless Steel;Automatic;50 meters;41.0;10.4;20.0;Blue;Sapphire;Date;60 hours;24,800;Watches
+286;IWC;Pilot's Watch;Stainless Steel;Leather;Automatic;60 meters;41.0;12.8;22.0;Black;Sapphire;Date;42 hours;4,800;Watches
+287;Tudor;Black Bay GMT;Stainless Steel;Stainless Steel;Automatic;200 meters;41.0;14.5;22.0;Black;Sapphire;GMT;70 hours;4,000;Watches
+288;Breguet;Classique;18k White Gold;Leather;Manual;30 meters;40.0;6.95;20.0;White;Sapphire;None;65 hours;22,500;Watches
+289;Blancpain;Fifty Fathoms;Stainless Steel;Rubber;Automatic;300 meters;45.0;15.4;23.0;Black;Sapphire;Date;120 hours;12,500;Watches
+290;Chopard;Mille Miglia;Stainless Steel;Leather;Automatic;50 meters;42.0;12.67;22.0;Black;Sapphire;Chronograph;42 hours;6,900;Watches
+291;Panerai;Luminor;Titanium;Leather;Automatic;100 meters;44.0;15.65;24.0;Black;Sapphire;None;72 hours;7,500;Watches
+292;Audemars Piguet;Royal Oak;Stainless Steel;Stainless Steel;Automatic;50 meters;41.0;10.4;20.0;Blue;Sapphire;Date, Stopwatch;60 hours;25,000;Watches
+293;Patek Philippe;Nautilus;Stainless Steel;Stainless Steel;Automatic;120 meters;40.5;8.3;22.0;Blue;Sapphire;Date, Moon Phase;45 hours;70,000;Watches
+294;IWC;Pilot's Watch;Stainless Steel;Leather;Automatic;60 meters;41.0;10.8;20.0;Black;Sapphire;Date, Stopwatch;42 hours;5,500;Watches
+295;Blancpain;Fifty Fathoms;Titanium;Fabric;Automatic;300 meters;45.0;15.4;23.0;Black;Sapphire;Date;120 hours;12,000;Watches
+296;Ulysse Nardin;Marine;Stainless Steel;Rubber;Automatic;100 meters;44.0;14.4;22.0;Blue;Sapphire;Date, Power Reserve;60 hours;7,500;Watches
+297;Breguet;Classique;Rose Gold;Leather;Automatic;30 meters;38.0;8.25;20.0;Silver;Sapphire;None;45 hours;20,000;Watches
+298;Girard-Perregaux;Laureato;Stainless Steel;Stainless Steel;Automatic;100 meters;38.0;10.88;22.0;Black;Sapphire;None;46 hours;8,500;Watches
+299;Hublot;Big Bang;Ceramic;Rubber;Automatic;100 meters;42.0;14.1;24.0;Black;Sapphire;Date, Chronograph;42 hours;12,000;Watches
+300;Zenith;Chronomaster;Stainless Steel;Leather;Automatic;100 meters;42.0;14.05;20.0;Silver;Sapphire;Date, Chronograph;50 hours;6,000;Watches
+301;Vacheron Constantin;Overseas;Stainless Steel;Rubber;Automatic;150 meters;41.0;11.0;22.0;Blue;Sapphire;Date;40 hours;12,000;Watches
+302;Audemars Piguet;Royal Oak;Stainless Steel;Stainless Steel;Automatic;50 meters;41.0;10.4;20.0;Black;Sapphire;Date;60 hours;22,000;Watches
+303;Hublot;Classic Fusion;Titanium;Rubber;Automatic;50 meters;42.0;10.5;22.0;Blue;Sapphire;Date;42 hours;8,500;Watches
+304;Panerai;Luminor Marina;Stainless Steel;Leather;Manual;300 meters;44.0;15.65;24.0;Black;Sapphire;None;56 hours;7,200;Watches
+305;Breguet;Classique;18K White Gold;Leather;Manual;30 meters;40.0;6.1;20.0;Silver;Sapphire;None;65 hours;16,000;Watches
+307;Ulysse Nardin;Marine;Stainless Steel;Rubber;Automatic;100 meters;42.2;12.6;22.0;Blue;Sapphire;Date;60 hours;8,900;Watches
+308;IWC;Portugieser Chronograph;Stainless Steel;Leather;Automatic;30 meters;41.0;13.1;20.0;White;Sapphire;Chronograph;46 hours;7,600;Watches
+309;Patek Philippe;Nautilus;Stainless Steel;Stainless Steel;Automatic;120 meters;40.8;8.3;20.0;Blue;Sapphire;Date;45 hours;57,000;Watches
+310;Montblanc;1858 Geosphere;Titanium;Leather;Automatic;100 meters;42.0;12.8;22.0;Black;Sapphire;GMT;42 hours;6,500;Watches
+311;Vacheron Constantin;Overseas;Stainless Steel;Stainless Steel;Automatic;150 meters;41.5;11.0;22.0;Blue;Sapphire;Date;60 hours;21,000;Watches
+312;Zenith;Chronomaster El Primero;Stainless Steel;Leather;Automatic;100 meters;38.0;12.45;20.0;Silver;Sapphire;Chronograph;50 hours;6,000;Watches
+313;Rolex;Daytona;18k Yellow Gold;Leather;Automatic;100 meters;40.0;12.4;20.0;Champagne;Sapphire;Chronograph;72 hours;29,500;Watches
+314;Audemars Piguet;Royal Oak;Rose Gold;Rose Gold;Automatic;50 meters;37.0;9.8;18.0;Blue;Sapphire;None;60 hours;36,500;Watches
+315;Patek Philippe;Nautilus;Stainless Steel;Stainless Steel;Automatic;120 meters;40.5;8.3;22.0;Blue;Sapphire;Date;45 hours;51,000;Watches
+316;IWC;Portuguese;Stainless Steel;Leather;Automatic;30 meters;42.3;14.2;22.0;White;Sapphire;Date;60 hours;8,800;Watches
+317;Blancpain;Fifty Fathoms;Stainless Steel;Rubber;Automatic;300 meters;45.0;15.4;23.0;Black;Sapphire;Date;120 hours;13,500;Watches
+318;Hublot;Big Bang;Carbon Fiber;Rubber;Automatic;100 meters;44.0;14.5;22.0;Black;Sapphire;Chronograph;72 hours;19,500;Watches
+319;Ulysse Nardin;Marine;Stainless Steel;Rubber;Automatic;100 meters;43.0;12.6;22.0;Blue;Sapphire;Date;60 hours;7,000;Watches
+320;Breguet;Classique;18k White Gold;Leather;Manual;30 meters;38.0;7.45;20.0;Silver;Sapphire;None;65 hours;23,000;Watches
+321;Girard-Perregaux;Laureato;Stainless Steel;Stainless Steel;Automatic;100 meters;42.0;10.88;25.0;Black;Sapphire;Date;46 hours;9,500;Watches
+322;Piaget;Altiplano;18k White Gold;Leather;Manual;30 meters;40.0;6.36;20.0;Silver;Sapphire;None;43 hours;18,500;Watches
+323;Vacheron Constantin;Patrimony;18k Rose Gold;Leather;Manual;30 meters;42.0;7.65;20.0;Silver;Sapphire;None;65 hours;22,500;Watches
+324;Panerai;Luminor Marina;Stainless Steel;Leather;Automatic;300 meters;44.0;15.65;22.0;Black;Sapphire;Date, GMT;72 hours;7,500;Watches
+325;IWC;Portugieser;Stainless Steel;Leather;Automatic;30 meters;41.0;12.3;22.0;Blue;Sapphire;Date;60 hours;6,500;Watches
+326;Audemars Piguet;Royal Oak;Stainless Steel;Stainless Steel;Automatic;50 meters;41.0;9.8;20.0;Blue;Sapphire;Date;60 hours;20,000;Watches
+327;Hublot;Big Bang;Carbon Fiber;Rubber;Automatic;100 meters;44.0;14.5;26.0;Black;Sapphire;Chronograph;72 hours;12,000;Watches
+328;Girard-Perregaux;Laureato;Stainless Steel;Stainless Steel;Automatic;100 meters;42.0;10.88;22.0;Blue;Sapphire;Date;54 hours;6,500;Watches
+329;Chopard;Mille Miglia;Stainless Steel;Leather;Automatic;50 meters;42.0;11.43;22.0;Black;Sapphire;Chronograph;48 hours;6,200;Watches
+330;Vacheron Constantin;Overseas;Stainless Steel;Stainless Steel;Automatic;150 meters;41.0;11.0;22.0;Blue;Sapphire;Date;60 hours;15,000;Watches
+331;Piaget;Altiplano;White Gold;Leather;Manual;30 meters;40.0;6.36;20.0;Silver;Sapphire;None;44 hours;22,000;Watches
+332;Zenith;El Primero;Stainless Steel;Leather;Automatic;100 meters;42.0;12.75;22.0;Black;Sapphire;Chronograph;50 hours;5,500;Watches
+333;Breguet;Classique;White Gold;Leather;Automatic;30 meters;39.0;10.2;22.0;Silver;Sapphire;None;45 hours;19,000;Watches
+334;Tudor;Black Bay;Stainless Steel;Leather;Automatic;200 meters;41.0;12.7;22.0;Black;Sapphire;None;70 hours;3,500;Watches
+335;Rolex;Datejust;Stainless Steel;Stainless Steel;Automatic;100 meters;36.0;12.5;20.0;Blue;Sapphire;Date, Cyclops;70 hours;7,400;Watches
+336;Omega;Speedmaster;Stainless Steel;Stainless Steel;Automatic;50 meters;42.0;14.3;20.0;Black;Hesalite;Chronograph;48 hours;5,000;Watches
+337;Cartier;Santos;Stainless Steel;Stainless Steel;Automatic;100 meters;39.8;9.08;20.0;Silver;Sapphire;Date;42 hours;6,200;Watches
+338;TAG Heuer;Aquaracer;Stainless Steel;Stainless Steel;Automatic;300 meters;43.0;12.5;21.0;Black;Sapphire;Date;38 hours;3,100;Watches
+339;Breitling;Superocean;Stainless Steel;Rubber;Automatic;1000 meters;42.0;13.3;20.0;Blue;Sapphire;Date;38 hours;4,100;Watches
+340;Panerai;Luminor Marina;Stainless Steel;Leather;Automatic;300 meters;44.0;13.05;24.0;Black;Sapphire;None;72 hours;6,500;Watches
+341;Tudor;Black Bay;Stainless Steel;Leather;Automatic;200 meters;41.0;12.7;22.0;Black;Sapphire;Date;70 hours;3,800;Watches
+342;Zenith;Elite Classic;Stainless Steel;Leather;Automatic;50 meters;39.0;8.15;20.0;Silver;Sapphire;Date;50 hours;4,900;Watches
+343;Longines;Conquest Classic;Stainless Steel;Leather;Automatic;50 meters;40.0;10.75;20.0;Silver;Sapphire;Date;54 hours;1,850;Watches
+344;Montblanc;Star Legacy;Stainless Steel;Leather;Automatic;50 meters;42.0;11.4;22.0;White;Sapphire;Date, Moonphase;42 hours;3,900;Watches
+345;Baume & Mercier;Clifton Baumatic;Stainless Steel;Leather;Automatic;50 meters;40.0;10.3;20.0;Silver;Sapphire;Date;120 hours;2,750;Watches
+346;Rolex;Datejust;Stainless Steel;Jubilee Bracelet;Automatic;100 meters;41.0;11.8;20.0;Blue;Sapphire;Date;70 hours;9,500;Watches
+347;Omega;Speedmaster Moonwatch;Stainless Steel;Stainless Steel;Manual;50 meters;42.0;13.75;20.0;Black;Hesalite;Chronograph, Tachymeter;48 hours;5,350;Watches
+348;Breitling;Superocean Heritage;Stainless Steel;Stainless Steel;Automatic;200 meters;44.0;14.2;22.0;Blue;Sapphire;Date;38 hours;3,250;Watches
+350;Tag Heuer;Monaco;Stainless Steel;Leather;Automatic;100 meters;39.0;14.0;22.0;Blue;Sapphire;Chronograph;40 hours;4,950;Watches
+351;Jaeger-LeCoultre;Master Control;Stainless Steel;Leather;Automatic;50 meters;40.0;8.5;20.0;Silver;Sapphire;Date, Moonphase;70 hours;6,500;Watches
+352;Panerai;Luminor;Titanium;Rubber;Manual;300 meters;44.0;15.6;24.0;Black;Sapphire;None;72 hours;8,500;Watches
+353;Audemars Piguet;Royal Oak;Stainless Steel;Stainless Steel;Automatic;50 meters;41.0;10.4;20.0;Blue;Sapphire;Date;60 hours;27,000;Watches
+354;IWC;Portugieser;Stainless Steel;Leather;Automatic;30 meters;40.4;12.3;20.0;Silver;Sapphire;Chronograph;46 hours;7,250;Watches
+355;Patek Philippe;Calatrava;18K White Gold;Leather;Manual;30 meters;38.0;8.25;20.0;White;Sapphire;None;44 hours;25,000;Watches
+356;Bell & Ross;BR 03-92;Ceramic;Rubber;Automatic;100 meters;42.0;9.8;24.0;Black;Sapphire;None;40 hours;3,800;Watches
+357;Rolex;Datejust;Stainless Steel;Stainless Steel;Automatic;100 meters;36.0;12.5;20.0;Silver;Sapphire;Date, Cyclops Lens;70 hours;8,000;Watches
+358;Omega;Speedmaster;Stainless Steel;Stainless Steel;Manual;50 meters;42.0;14.3;20.0;Black;Hesalite;Chronograph, Tachymeter;48 hours;4,500;Watches
+359;Patek Philippe;Nautilus;Stainless Steel;Stainless Steel;Automatic;120 meters;40.8;8.3;20.0;Blue;Sapphire;Date;45 hours;52,000;Watches
+360;Audemars Piguet;Royal Oak;Stainless Steel;Stainless Steel;Automatic;50 meters;41.0;10.4;20.0;Blue;Sapphire;Date;60 hours;28,500;Watches
+361;IWC;Pilot's Watch Mark;Stainless Steel;Leather;Automatic;60 meters;41.0;12.5;20.0;Black;Sapphire;Date, Chronograph;44 hours;6,800;Watches
+362;Hublot;Big Bang;Ceramic;Rubber;Automatic;100 meters;42.0;14.1;24.0;Black;Sapphire;Chronograph;72 hours;16,000;Watches
+363;Zenith;El Primero;Stainless Steel;Leather;Automatic;100 meters;42.0;12.75;20.0;Black;Sapphire;Chronograph;50 hours;6,500;Watches
+364;Breguet;Classique;18K White Gold;Leather;Automatic;30 meters;39.0;8.65;20.0;Silver;Sapphire;None;40 hours;19,000;Watches
+365;Blancpain;Fifty Fathoms;Stainless Steel;Rubber;Automatic;300 meters;45.0;15.5;23.0;Black;Sapphire;Date;120 hours;13,500;Watches
+366;Girard-Perregaux;Laureato;Stainless Steel;Stainless Steel;Automatic;100 meters;42.0;10.88;25.0;Black;Sapphire;Date;46 hours;8,000;Watches
+367;Jaquet Droz;Grande Seconde;Stainless Steel;Leather;Automatic;30 meters;43.0;12.48;23.0;Silver;Sapphire;None;68 hours;10,000;Watches
+368;Rolex;GMT-Master II;Stainless Steel;Stainless Steel;Automatic;100 meters;40.0;12.5;20.0;Black;Sapphire;Date, GMT;70 hours;9,700;Watches
+369;Patek Philippe;Nautilus;Stainless Steel;Stainless Steel;Automatic;120 meters;40.5;8.3;21.0;Blue;Sapphire;Date;45 hours;29,800;Watches
+370;Omega;Speedmaster;Stainless Steel;Stainless Steel;Manual;50 meters;42.0;14.3;20.0;Black;Hesalite;Chronograph;48 hours;5,350;Watches
+371;Audemars Piguet;Royal Oak;Stainless Steel;Stainless Steel;Automatic;50 meters;41.0;9.8;20.0;Blue;Sapphire;Date;60 hours;18,500;Watches
+372;IWC;Pilot's Watch;Stainless Steel;Leather;Automatic;60 meters;43.0;15.0;22.0;Black;Sapphire;Date;72 hours;4,950;Watches
+373;Zenith;El Primero;Stainless Steel;Leather;Automatic;100 meters;42.0;12.75;20.0;White;Sapphire;Chronograph, Date;50 hours;7,900;Watches
+375;Hublot;Big Bang;Titanium;Rubber;Automatic;100 meters;44.0;14.5;24.0;Black;Sapphire;Chronograph, Date;72 hours;16,000;Watches
+376;Girard-Perregaux;Laureato;Stainless Steel;Stainless Steel;Automatic;100 meters;42.0;10.88;22.0;Blue;Sapphire;Date;54 hours;12,800;Watches
+377;Jaeger-LeCoultre;Master Control;Stainless Steel;Leather;Automatic;50 meters;40.0;8.78;20.0;Silver;Sapphire;Date, Power Reserve Indicator;70 hours;8,500;Watches
+378;IWC;Portugieser;Stainless Steel;Leather;Automatic;30 meters;41.0;12.3;22.0;Blue;Sapphire;Date, Power Reserve Indicator;42 hours;8,500;Watches
+379;Panerai;Luminor;Titanium;Rubber;Automatic;300 meters;44.0;13.05;24.0;Black;Sapphire;Date, Sub Seconds;72 hours;7,500;Watches
+380;Patek Philippe;Nautilus;Stainless Steel;Stainless Steel;Automatic;120 meters;40.5;8.3;20.0;Blue;Sapphire;Date;45 hours;39,000;Watches
+381;Audemars Piguet;Royal Oak;Stainless Steel;Stainless Steel;Automatic;50 meters;37.0;9.8;20.0;Blue;Sapphire;Date;40 hours;19,500;Watches
+382;Hublot;Big Bang;Titanium;Rubber;Automatic;100 meters;44.0;14.5;24.0;Black;Sapphire;Date, Chronograph;72 hours;13,000;Watches
+383;Zenith;El Primero;Stainless Steel;Leather;Automatic;100 meters;42.0;12.75;20.0;White;Sapphire;Date, Chronograph, Moon Phase;50 hours;7,500;Watches
+384;Vacheron Constantin;Overseas;Stainless Steel;Stainless Steel;Automatic;150 meters;41.0;11.0;22.0;Blue;Sapphire;Date, World Time;60 hours;23,000;Watches
+385;Breguet;Classique;18K White Gold;Leather;Manual;30 meters;40.0;6.95;20.0;Silver;Sapphire;None;50 hours;24,000;Watches
+386;Blancpain;Fifty Fathoms;Stainless Steel;Fabric;Automatic;300 meters;45.0;15.5;23.0;Black;Sapphire;Date, Power Reserve Indicator;120 hours;11,000;Watches
+387;Chopard;Mille Miglia;Stainless Steel;Leather;Automatic;50 meters;44.0;14.45;22.0;Black;Sapphire;Date, Chronograph;42 hours;6,000;Watches
+388;Rolex;Datejust;Stainless Steel;Stainless Steel;Automatic;100 meters;36.0;12.0;20.0;Silver;Sapphire;Date;70 hours;7,500;Watches
+389;Omega;Speedmaster;Stainless Steel;Stainless Steel;Automatic;50 meters;42.0;13.7;20.0;Black;Sapphire;Chronograph, Tachymeter;60 hours;6,500;Watches
+390;Tag Heuer;Aquaracer;Stainless Steel;Stainless Steel;Automatic;300 meters;43.0;13.0;21.0;Blue;Sapphire;Date;38 hours;3,700;Watches
+391;Breitling;Superocean;Stainless Steel;Rubber;Automatic;200 meters;44.0;14.2;22.0;Black;Sapphire;Date;42 hours;4,500;Watches
+392;Cartier;Ballon Bleu;Stainless Steel;Stainless Steel;Automatic;30 meters;42.0;13.0;22.0;Silver;Sapphire;Date;42 hours;7,500;Watches
+393;Jaeger-LeCoultre;Master Control;Stainless Steel;Leather;Automatic;50 meters;40.0;8.8;20.0;Silver;Sapphire;Date, Power Reserve;70 hours;6,000;Watches
+394;Rolex;GMT-Master II;Stainless Steel;Stainless Steel;Automatic;100 meters;40.0;12.5;20.0;Black;Sapphire;Dual Time Zone;70 hours;9,500;Watches
+395;Omega;Constellation;Stainless Steel;Stainless Steel;Automatic;100 meters;39.0;10.6;20.0;Black;Sapphire;Date;50 hours;4,800;Watches
+396;Tag Heuer;Monaco;Stainless Steel;Leather;Automatic;100 meters;39.0;14.5;22.0;Blue;Sapphire;Chronograph;40 hours;5,200;Watches
+397;Breitling;Chronomat;Stainless Steel;Stainless Steel;Automatic;200 meters;44.0;16.95;22.0;Blue;Sapphire;Chronograph, Date;70 hours;6,900;Watches
+398;Cartier;Santos;Stainless Steel;Stainless Steel;Automatic;100 meters;35.1;8.83;18.0;Silver;Sapphire;Date;42 hours;5,500;Watches
+399;Rolex;Datejust;Stainless Steel;Stainless Steel;Automatic;100 meters;41.0;11.7;20.0;White;Sapphire;Date;70 hours;8,000;Watches
+400;Patek Philippe;Nautilus;Stainless Steel;Stainless Steel;Automatic;120 meters;40.5;8.3;21.0;Blue;Sapphire;Date;45 hours;40,000;Watches
+401;Audemars Piguet;Royal Oak;Stainless Steel;Stainless Steel;Automatic;50 meters;37.0;9.0;16.0;Blue;Sapphire;Date;60 hours;18,000;Watches
+402;IWC;Portugieser;Stainless Steel;Leather;Automatic;30 meters;40.4;12.3;22.0;White;Sapphire;Date;60 hours;7,500;Watches
+403;Hublot;Big Bang;Titanium;Rubber;Automatic;100 meters;44.0;14.5;25.0;Black;Sapphire;Chronograph;72 hours;14,000;Watches
+404;Blancpain;Fifty Fathoms;Stainless Steel;Canvas;Automatic;300 meters;45.0;15.4;23.0;Black;Sapphire;Date;120 hours;14,000;Watches
+405;Breguet;Classique;Rose Gold;Leather;Manual;30 meters;40.0;6.8;20.0;Silver;Sapphire;None;55 hours;25,000;Watches
+406;Jaeger-LeCoultre;Master Ultra Thin;Stainless Steel;Leather;Automatic;50 meters;39.0;7.8;20.0;Silver;Sapphire;None;70 hours;6,500;Watches
+407;Zenith;El Primero;Stainless Steel;Stainless Steel;Automatic;100 meters;42.0;12.75;20.0;Blue;Sapphire;Chronograph;50 hours;7,000;Watches
+408;Bulgari;Octo Finissimo;Titanium;Titanium;Automatic;30 meters;40.0;5.15;28.0;Black;Sapphire;None;55 hours;10,000;Watches
+409;Girard-Perregaux;Laureato;Stainless Steel;Stainless Steel;Automatic;100 meters;42.0;10.88;22.0;Blue;Sapphire;Date;54 hours;9,000;Watches
+410;Rolex;GMT-Master II;Stainless Steel;Stainless Steel;Automatic;100 meters;40.0;12.1;20.0;Black;Sapphire;GMT, Date;70 hours;9,450;Watches
+411;Patek Philippe;Nautilus;Stainless Steel;Stainless Steel;Automatic;120 meters;40.8;8.3;21.0;Blue;Sapphire;Date;55 hours;29,800;Watches
+412;Audemars Piguet;Royal Oak;Stainless Steel;Stainless Steel;Automatic;50 meters;41.0;9.8;20.0;Blue;Sapphire;Date, Chronograph;50 hours;22,300;Watches
+413;Hublot;Classic Fusion;Titanium;Rubber;Automatic;50 meters;42.0;10.6;22.0;Black;Sapphire;Date;42 hours;8,100;Watches
+414;IWC;Pilot's Watch Mark XVIII;Stainless Steel;Leather;Automatic;60 meters;40.0;10.8;20.0;Black;Sapphire;Date;42 hours;3,900;Watches
+415;A. Lange & Söhne;Saxonia;Rose Gold;Leather;Manual;30 meters;38.5;7.8;18.0;Silver;Sapphire;None;72 hours;23,300;Watches
+416;Breguet;Classique;Rose Gold;Leather;Automatic;30 meters;39.0;8.65;20.0;Silver;Sapphire;Date;65 hours;23,200;Watches
+417;Chopard;Mille Miglia;Stainless Steel;Leather;Automatic;50 meters;44.0;14.4;22.0;Black;Sapphire;Date, Chronograph, Tachymeter;42 hours;6,300;Watches
+418;Zenith;El Primero;Stainless Steel;Leather;Automatic;100 meters;38.0;12.45;20.0;White;Sapphire;Date, Chronograph;50 hours;5,600;Watches
+419;Panerai;Luminor;Titanium;Leather;Manual;100 meters;44.0;13.05;24.0;Black;Sapphire;None;56 hours;6,900;Watches
+420;Rolex;Daytona;Stainless Steel;Stainless Steel;Automatic;100 meters;40.0;12.4;20.0;White;Sapphire;Chronograph;72 hours;13,500;Watches
+421;Omega;Speedmaster;Stainless Steel;Stainless Steel;Manual;50 meters;42.0;14.3;20.0;Black;Hesalite;Chronograph;48 hours;4,500;Watches
+422;Cartier;Santos;Stainless Steel;Leather;Automatic;100 meters;39.8;9.08;20.0;Silver;Sapphire;Date;42 hours;6,600;Watches
+423;Breitling;Superocean Heritage;Stainless Steel;Leather;Automatic;200 meters;42.0;14.35;20.0;Black;Sapphire;Date;38 hours;4,400;Watches
+424;Tag Heuer;Aquaracer;Stainless Steel;Stainless Steel;Automatic;300 meters;41.0;12.0;20.0;Blue;Sapphire;Date;38 hours;2,800;Watches
+425;Jaeger-LeCoultre;Master Ultra Thin;Stainless Steel;Leather;Automatic;50 meters;40.0;7.45;20.0;Silver;Sapphire;None;43 hours;6,300;Watches
+426;Patek Philippe;Calatrava;18k Rose Gold;Leather;Manual;30 meters;38.0;7.68;19.0;White;Sapphire;None;44 hours;22,900;Watches
+427;Audemars Piguet;Royal Oak;Stainless Steel;Stainless Steel;Automatic;50 meters;41.0;9.8;20.0;Black;Sapphire;Date;60 hours;22,500;Watches
+428;Zenith;El Primero;Stainless Steel;Stainless Steel;Automatic;100 meters;42.0;12.75;20.0;Blue;Sapphire;Chronograph;50 hours;6,900;Watches
+429;Vacheron Constantin;Overseas;Stainless Steel;Stainless Steel;Automatic;150 meters;41.0;11.0;20.0;Black;Sapphire;Date, World Time;60 hours;20,200;Watches
+430;IWC;Portugieser;Stainless Steel;Leather;Automatic;30 meters;40.4;12.6;20.0;Silver;Sapphire;None;44 hours;7,600;Watches
+431;Panerai;Luminor Marina;Stainless Steel;Leather;Automatic;300 meters;44.0;15.65;24.0;Black;Sapphire;Date;72 hours;6,500;Watches
+432;Patek Philippe;Nautilus;Stainless Steel;Stainless Steel;Automatic;120 meters;40.5;8.3;21.0;Blue;Sapphire;Date;45 hours;34,000;Watches
+433;Audemars Piguet;Royal Oak;Stainless Steel;Stainless Steel;Automatic;50 meters;41.0;9.8;20.0;Black;Sapphire;Date;60 hours;22,000;Watches
+434;IWC;Portugieser;Stainless Steel;Leather;Automatic;30 meters;41.0;12.3;22.0;White;Sapphire;Date;168 hours;9,500;Watches
+435;Hublot;Big Bang;Ceramic;Rubber;Automatic;100 meters;41.0;14.6;20.0;Black;Sapphire;Chronograph;42 hours;14,000;Watches
+436;Breguet;Classique;18k Rose Gold;Leather;Manual;30 meters;39.0;10.2;22.0;Silver;Sapphire;None;40 hours;26,000;Watches
+437;Zenith;El Primero;Stainless Steel;Leather;Automatic;100 meters;38.0;12.5;20.0;Silver;Sapphire;Chronograph;50 hours;7,000;Watches
+438;Blancpain;Fifty Fathoms;Stainless Steel;NATO strap;Automatic;300 meters;45.0;15.4;23.0;Black;Sapphire;None;120 hours;10,000;Watches
+439;Girard-Perregaux;Laureato;Stainless Steel;Stainless Steel;Automatic;100 meters;42.0;10.88;22.0;Blue;Sapphire;Date;54 hours;11,500;Watches
+440;Ulysse Nardin;Marine;Stainless Steel;Leather;Automatic;100 meters;42.2;12.6;20.0;Blue;Sapphire;Date;60 hours;7,500;Watches
+441;Vacheron Constantin;Overseas;Stainless Steel;Stainless Steel;Automatic;150 meters;41.5;11.0;22.0;Silver;Sapphire;Date;60 hours;20,000;Watches
+442;Patek Philippe;Nautilus;Stainless Steel;Stainless Steel;Automatic;120 meters;40.0;8.3;20.0;Blue;Sapphire;Date;45 hours;26,000;Watches
+443;Audemars Piguet;Royal Oak;Stainless Steel;Stainless Steel;Automatic;50 meters;41.0;10.4;20.0;Grey;Sapphire;Date;60 hours;17,000;Watches
+444;IWC;Portugieser;Stainless Steel;Leather;Automatic;30 meters;42.3;14.2;22.0;White;Sapphire;Chronograph;46 hours;7,800;Watches
+445;A. Lange & Söhne;Saxonia;18k Rose Gold;Leather;Manual;30 meters;37.0;7.5;18.0;Silver;Sapphire;None;45 hours;17,500;Watches
+446;Vacheron Constantin;Overseas;Stainless Steel;Rubber;Automatic;150 meters;42.5;13.7;22.0;Blue;Sapphire;Date;40 hours;20,000;Watches
+447;Girard-Perregaux;Laureato;Stainless Steel;Stainless Steel;Automatic;100 meters;41.0;10.88;26.0;Black;Sapphire;Chronograph;46 hours;12,000;Watches
+448;Zenith;El Primero;Stainless Steel;Leather;Automatic;100 meters;42.0;12.75;22.0;Silver;Sapphire;Chronograph;50 hours;7,500;Watches
+449;Blancpain;Fifty Fathoms;Stainless Steel;Rubber;Automatic;300 meters;45.0;15.5;23.0;Black;Sapphire;Date;120 hours;14,000;Watches
+450;Hublot;Classic Fusion;Titanium;Rubber;Automatic;50 meters;45.0;10.95;22.0;Blue;Sapphire;None;42 hours;9,500;Watches
+451;Breguet;Classique;18k White Gold;Leather;Manual;30 meters;38.0;8.25;20.0;Silver;Sapphire;None;40 hours;22,000;Watches
+452;Piaget;Polo;Stainless Steel;Stainless Steel;Automatic;100 meters;42.0;9.4;22.0;Blue;Sapphire;Date;44 hours;10,500;Watches
+453;Patek Philippe;Nautilus;Stainless Steel;Stainless Steel;Automatic;120 meters;40.5;8.3;22.0;Blue;Sapphire;Date;45 hours;29,000;Watches
+454;Audemars Piguet;Royal Oak;Rose Gold;Leather;Automatic;50 meters;37.0;9.8;20.0;Black;Sapphire;Date;60 hours;38,500;Watches
+455;Hublot;Classic Fusion;Titanium;Rubber;Automatic;50 meters;42.0;9.85;22.0;Blue;Sapphire;None;42 hours;7,500;Watches
+456;Breguet;Classique;Rose Gold;Leather;Automatic;30 meters;39.0;10.2;20.0;Silver;Sapphire;None;65 hours;25,000;Watches
+457;IWC;Pilot's Watch;Stainless Steel;Leather;Automatic;60 meters;41.0;15.3;20.0;Black;Sapphire;Date;42 hours;5,900;Watches
+458;Blancpain;Fifty Fathoms;Stainless Steel;NATO Strap;Automatic;300 meters;45.0;15.5;23.0;Black;Sapphire;Date;120 hours;12,000;Watches
+459;Zenith;El Primero;Stainless Steel;Leather;Automatic;100 meters;38.0;12.45;20.0;Silver;Sapphire;Chronograph;50 hours;6,200;Watches
+460;Chopard;Mille Miglia;Stainless Steel;Rubber;Automatic;50 meters;42.0;13.07;20.0;Black;Sapphire;Chronograph;48 hours;6,800;Watches
+461;Vacheron Constantin;Patrimony;White Gold;Leather;Manual;30 meters;40.0;6.79;20.0;Silver;Sapphire;None;65 hours;28,000;Watches
+462;Panerai;Luminor;Titanium;Leather;Automatic;300 meters;44.0;16.15;24.0;Black;Sapphire;None;72 hours;9,500;Watches
+463;Tudor;Black Bay;Stainless Steel;NATO Strap;Automatic;200 meters;41.0;11.9;22.0;Black;Sapphire;None;70 hours;3,500;Watches
+464;Panerai;Luminor Marina;Stainless Steel;Leather;Automatic;300 meters;42.0;14.5;22.0;Black;Sapphire;Date;50 hours;7,200;Watches
+465;IWC;Portugieser;Stainless Steel;Leather;Automatic;30 meters;41.0;12.3;22.0;Blue;Sapphire;None;60 hours;7,900;Watches
+466;Patek Philippe;Nautilus;Stainless Steel;Stainless Steel;Automatic;120 meters;40.0;8.3;22.0;Blue;Sapphire;Date;45 hours;36,000;Watches
+467;Audemars Piguet;Royal Oak;Stainless Steel;Stainless Steel;Automatic;50 meters;41.0;10.4;20.0;Blue;Sapphire;Date;60 hours;28,500;Watches
+468;Blancpain;Fifty Fathoms;Stainless Steel;Canvas;Automatic;300 meters;45.0;15.4;23.0;Black;Sapphire;Date;120 hours;15,000;Watches
+469;Breguet;Classique;18K Yellow Gold;Leather;Automatic;30 meters;39.0;10.2;20.0;Silver;Sapphire;Date;38 hours;26,000;Watches
+470;Zenith;Chronomaster;Stainless Steel;Leather;Automatic;50 meters;42.0;13.5;22.0;Blue;Sapphire;Chronograph;50 hours;6,500;Watches
+471;Girard-Perregaux;Laureato;Stainless Steel;Stainless Steel;Automatic;100 meters;38.0;10.88;20.0;Blue;Sapphire;Date;54 hours;12,000;Watches
+472;Hublot;Big Bang;Titanium;Rubber;Automatic;100 meters;44.0;14.5;24.0;Black;Sapphire;Chronograph;72 hours;18,500;Watches
+473;Jaquet Droz;Grande Seconde;Stainless Steel;Leather;Automatic;30 meters;43.0;11.48;23.0;Black;Sapphire;None;68 hours;9,500;Watches
+474;Montblanc;Star Legacy;Stainless Steel;Leather;Automatic;50 meters;39.0;9.9;19.0;Silver;Sapphire;Date;42 hours;3,500;Watches
+475;Rolex;GMT-Master II;Stainless Steel;Stainless Steel;Automatic;100 meters;40.0;12.5;20.0;Black;Sapphire;GMT, Date;70 hours;9,900;Watches
+476;Omega;Speedmaster;Stainless Steel;Stainless Steel;Manual;50 meters;42.0;14.3;20.0;Black;Hesalite;Chronograph;48 hours;4,300;Watches
+477;IWC;Portugieser;Stainless Steel;Leather;Automatic;30 meters;40.4;12.3;20.0;White;Sapphire;None;60 hours;7,500;Watches
+478;Hublot;Big Bang;Ceramic;Rubber;Automatic;100 meters;44.0;14.5;24.0;Black;Sapphire;Chronograph;72 hours;15,500;Watches
+479;Panerai;Luminor Marina;Stainless Steel;Leather;Manual;300 meters;44.0;13.05;24.0;Black;Sapphire;None;56 hours;5,200;Watches
+480;Patek Philippe;Calatrava;White Gold;Leather;Automatic;30 meters;37.0;8.5;18.0;White;Sapphire;Date;45 hours;25,000;Watches
+481;Audemars Piguet;Royal Oak;Stainless Steel;Stainless Steel;Automatic;50 meters;41.0;10.4;20.0;Blue;Sapphire;Date;60 hours;19,500;Watches
+482;Vacheron Constantin;Patrimony;Rose Gold;Leather;Automatic;30 meters;40.0;6.79;20.0;White;Sapphire;None;40 hours;15,000;Watches
+483;Blancpain;Fifty Fathoms;Titanium;Fabric;Automatic;300 meters;45.0;15.4;23.0;Black;Sapphire;None;120 hours;14,000;Watches
+484;Girard-Perregaux;Laureato;Stainless Steel;Stainless Steel;Automatic;100 meters;42.0;10.88;25.0;Blue;Sapphire;None;54 hours;7,500;Watches
+485;Jaquet Droz;Grande Seconde;Stainless Steel;Leather;Automatic;30 meters;43.0;11.48;22.0;White;Sapphire;None;68 hours;8,500;Watches
+486;Rolex;Datejust;Stainless Steel;Jubilee Bracelet;Automatic;100 meters;36.0;12.0;20.0;Blue;Sapphire;Date;70 hours;7,650;Watches
+487;Omega;Speedmaster;Stainless Steel;Stainless Steel;Manual;50 meters;42.0;14.3;20.0;Black;Hesalite;Chronograph;48 hours;5,200;Watches
+488;Patek Philippe;Nautilus;Stainless Steel;Stainless Steel;Automatic;120 meters;40.5;8.3;20.0;Blue;Sapphire;Date, Chronograph;55 hours;67,000;Watches
+489;Audemars Piguet;Royal Oak;Stainless Steel;Stainless Steel;Automatic;50 meters;41.0;9.8;20.0;Blue;Sapphire;Date, Power Reserve;60 hours;25,000;Watches
+490;Cartier;Ballon Bleu;Stainless Steel;Stainless Steel;Automatic;30 meters;36.6;12.05;18.0;Silver;Sapphire;Date;42 hours;4,700;Watches
+491;IWC;Portugieser;Stainless Steel;Leather;Automatic;30 meters;42.3;14.2;22.0;Blue;Sapphire;None;60 hours;9,100;Watches
+492;Jaeger-LeCoultre;Master Control;Stainless Steel;Leather;Automatic;50 meters;39.0;8.5;20.0;Silver;Sapphire;Date, Moonphase;70 hours;8,200;Watches
+493;Blancpain;Fifty Fathoms;Stainless Steel;Canvas;Automatic;300 meters;45.0;15.5;23.0;Black;Sapphire;Date;120 hours;12,500;Watches
+494;Breguet;Classique;18K Rose Gold;Leather;Automatic;30 meters;39.0;9.9;22.0;White;Sapphire;Date, Moonphase;65 hours;27,900;Watches
+495;Chopard;Mille Miglia;Stainless Steel;Rubber;Automatic;50 meters;42.0;12.67;20.0;Black;Sapphire;Chronograph, Date;42 hours;6,500;Watches
+496;Seiko;Prospex;Stainless Steel;Silicone;Automatic;200 meters;44.3;13.1;22.0;Black;Hardlex;Date, GMT;50 hours;1,200;Watches
+497;Tudor;Black Bay;Stainless Steel;Leather;Automatic;200 meters;41.0;14.75;22.0;Black;Sapphire;None;70 hours;3,800;Watches
+498;IWC;Pilot's Watch;Stainless Steel;Leather;Automatic;60 meters;39.0;10.86;20.0;Black;Sapphire;Date;42 hours;4,500;Watches
+499;Panerai;Luminor Marina;Titanium;Rubber;Automatic;300 meters;44.0;15.65;24.0;Black;Sapphire;None;72 hours;9,500;Watches
+500;Patek Philippe;Nautilus;Stainless Steel;Stainless Steel;Automatic;120 meters;40.5;8.3;20.0;Blue;Sapphire;Date;45 hours;35,000;Watches
+501;Audemars Piguet;Royal Oak;Stainless Steel;Stainless Steel;Automatic;50 meters;41.0;10.4;20.0;Black;Sapphire;Date;60 hours;24,000;Watches
+502;Breguet;Classique;18k Rose Gold;Leather;Automatic;30 meters;38.5;8.25;20.0;White;Sapphire;Date;38 hours;21,500;Watches
+503;Blancpain;Fifty Fathoms;Stainless Steel;Fabric;Automatic;300 meters;45.0;15.5;23.0;Black;Sapphire;Date;120 hours;13,500;Watches
+504;Longines;Master Collection;Stainless Steel;Leather;Automatic;30 meters;38.5;9.7;20.0;Blue;Sapphire;Date;64 hours;1,800;Watches
+505;Vacheron Constantin;Overseas;Stainless Steel;Stainless Steel;Automatic;150 meters;41.5;11.0;22.0;Blue;Sapphire;Date;40 hours;19,000;Watches
+506;Frederique Constant;Classics;Stainless Steel;Leather;Automatic;50 meters;40.0;10.6;20.0;Silver;Sapphire;Date;38 hours;1,200;Watches
